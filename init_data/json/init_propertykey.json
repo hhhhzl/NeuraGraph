@@ -1,0 +1,202 @@
+[
+  {
+    "name": "author_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "author_email",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "author_address",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "author_count",
+    "data_type": "INT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "standard_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "standard_type",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "standard_number",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "standard_object",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "standard_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "paper_title",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "paper_abstract",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "paper_corresponding_email",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "paper_funding",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "paper_corresponding_email",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "paper_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "journal_issn",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "journal_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "journal_jif",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "journal_count",
+    "data_type": "INT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "institute_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "institute_address",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "institute_country",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "subject_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "subject_abbrev",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "e_journal_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "e_journal_isbn",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "e_journal_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "report_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "report_number",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "report_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "book_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "book_isbn",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "book_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "patent_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "patent_number",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "patent_apply_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "patent_authorize_date",
+    "data_type": "DATE",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "publisher_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "publisher_type",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
+    "name": "keyword_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  }
+]

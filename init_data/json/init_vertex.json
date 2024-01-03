@@ -1,0 +1,191 @@
+[
+  {
+    "name": "standard",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "standard_name",
+        "standard_type",
+        "standard_number",
+        "standard_object",
+        "standard_date"
+    ],
+    "primary_keys": [
+        "standard_number"
+    ],
+    "nullable_keys": [
+        "standard_object",
+        "standard_type"
+    ],
+    "enable_label_index": true
+  },
+  {
+    "name": "paper",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "paper_doi",
+        "paper_title",
+        "paper_abstract",
+        "paper_corresponding_email",
+        "paper_funding",
+        "paper_date"
+    ],
+    "primary_keys": [
+        "paper_doi"
+    ],
+    "nullable_keys": [
+        "paper_corresponding_email",
+        "paper_funding"
+    ],
+    "enable_label_index": true
+  },
+  {
+    "name": "journal",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "journal_issn",
+        "journal_name",
+        "journal_jif",
+        "journal_count"
+    ],
+    "primary_keys": [
+        "journal_issn"
+    ],
+    "nullable_keys": [
+        "journal_jif",
+        "journal_count"
+    ],
+    "enable_label_index": true
+  },
+  {
+    "name": "e_journal",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "e_journal_name",
+        "e_journal_isbn",
+        "e_journal_date"
+    ],
+    "primary_keys": [
+        "e_journal_isbn"
+    ],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "book",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "book_name",
+        "book_isbn",
+        "book_date"
+    ],
+    "primary_keys": [
+        "book_isbn"
+    ],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "report",
+    "id_strategy": "DEFAULT",
+    "properties": [
+      "report_name",
+      "report_number",
+      "report_date"
+    ],
+    "primary_keys": [
+        "report_number"
+    ],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "patent",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "patent_name",
+        "patent_number",
+        "patent_apply_date",
+        "patent_authorize_date"
+    ],
+    "primary_keys": [
+        "patent_number"
+    ],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "subject",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "subject_name",
+        "subject_abbrev"
+    ],
+    "primary_keys": [
+        "subject_name"
+    ],
+    "nullable_keys": [
+      "subject_abbrev"
+    ],
+    "enable_label_index": true
+  },
+  {
+    "name": "institute",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "institute_name",
+        "institute_address",
+        "institute_country"
+    ],
+    "primary_keys": [
+        "institute_name"
+    ],
+    "nullable_keys": [
+      "institute_address",
+      "institute_country"
+    ],
+    "enable_label_index": true
+  },
+  {
+    "name": "author",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "author_name",
+        "author_email",
+        "author_address",
+        "author_count"
+    ],
+    "primary_keys": [
+        "author_email"
+    ],
+    "nullable_keys": [
+      "author_address",
+      "author_count"
+    ],
+    "enable_label_index": true
+  },
+  {
+    "name": "keyword",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "keyword_name"
+    ],
+    "primary_keys": [
+        "keyword_name"
+    ],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "publisher",
+    "id_strategy": "DEFAULT",
+    "properties": [
+        "publisher_name",
+        "publisher_type"
+    ],
+    "primary_keys": [
+        "publisher_name"
+    ],
+    "nullable_keys": ["publisher_type"],
+    "enable_label_index": true
+  }
+]

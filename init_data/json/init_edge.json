@@ -1,0 +1,200 @@
+[
+  {
+    "name": "works_at",
+    "source_label": "author",
+    "target_label": "institute",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "belongs_to",
+    "source_label": "paper",
+    "target_label": "subject",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "belongs_to",
+    "source_label": "journal",
+    "target_label": "subject",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "releases_on",
+    "source_label": "paper",
+    "target_label": "journal",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "publishes_on",
+    "source_label": "paper",
+    "target_label": "publisher",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces",
+    "source_label": "author",
+    "target_label": "paper",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces",
+    "source_label": "author",
+    "target_label": "e_journal",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces",
+    "source_label": "author",
+    "target_label": "book",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces",
+    "source_label": "author",
+    "target_label": "patent",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces",
+    "source_label": "author",
+    "target_label": "report",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces",
+    "source_label": "author",
+    "target_label": "standard",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces_as_first",
+    "source_label": "author",
+    "target_label": "paper",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "produces_as_corresponding",
+    "source_label": "author",
+    "target_label": "paper",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "exists_in",
+    "source_label": "keyword",
+    "target_label": "paper",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "holds",
+    "source_label": "institute",
+    "target_label": "patent",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "under",
+    "source_label": "subject",
+    "target_label": "subject",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "under",
+    "source_label": "institute",
+    "target_label": "institute",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  },
+  {
+    "name": "refers_to",
+    "source_label": "paper",
+    "target_label": "paper",
+    "frequency": "SINGLE",
+    "properties": [
+    ],
+    "sort_keys": [],
+    "nullable_keys": [],
+    "enable_label_index": true
+  }
+]

@@ -1,0 +1,31 @@
+mechanics 
+|--authors 作者表
+|        |- email 作者邮箱（唯一）
+|        |- name 作者姓名
+|        |- address 作者地址
+|        |- count 数据库收录作者的paper数量
+|
+|--papers 论文表
+|        |- Author Full Names 作者姓名
+|        |- Article Title 文章标题
+|        |- Source Title 期刊名
+|        |- Author Keywords 作者关键词
+|        |- Abstract 摘要
+|        |- Addresses 作者地址
+|        |- Reprint Addresses 通讯地址
+|        |- Email Addresses 作者邮箱
+|        |- Funding Orgs 基金
+|        |- Publisher 出版商
+|        |- ISSN 期刊号 
+|        |- Publication Year 发表年份
+|        |- DOI DOI号（唯一）
+|
+|--journals 期刊表
+|        |- name 期刊名
+|        |- ISSN 期刊号（唯一）
+|        |- JIF 期刊分区
+|        |- count 数据库收录期刊中的paper数量
+|        
+|--email_paper  作者-论文关系表
+|        |- email 作者邮箱
+|        |- DOI   DOI号
