@@ -21,47 +21,59 @@ class init_graph:
     def get_file_path(self, type):
         # function to get the file or json
         path_file = os.path.join(dirname(abspath(__file__)), 'json', f'init_{type}.json')
-        print(path_file)
         if not os.path.isfile(path_file):
             return
         return path_file
 
     def init_property_key(self):
         path_file = self.get_file_path('propertykey')
-        with open(path_file, encoding="utf-8") as f:
-            counter = 0
-            total = len(json.load(f))
-            for data in json.load(f):
-                res = self.graph_db.create_property_key(data['name'], data['data_type'], data['cardinality'])
-                if res.status_code == 202:
-                    print(f"Success import {data['name']}!")
-                    counter += 1
-            print(f"Success import {counter}/{total} of propertykey.")
+        try:
+            with open(path_file, encoding="utf-8") as f:
+                counter, total = 0, 0
+                for data in json.load(f):
+                    res = self.graph_db.create_property_key(data['name'], data['data_type'], data['cardinality'])
+                    if res.status_code == 202:
+                        print(f"Success import {data['name']}!")
+                        counter += 1
+                    total += 1
+                print(f"Success import {counter}/{total} of propertykey.")
+        except json.JSONDecodeError as e:
+            print("JSONDecodeError: ", e)
+        except FileNotFoundError:
+            print("File not found.")
+        except Exception as e:
+            print("An error occurred: ", e)
 
     def init_edge(self):
         path_file = self.get_file_path('edge')
-        with open(path_file, 'r') as f:
-            counter = 0
-            total = len(json.load(f))
-            for data in json.load(f):
-                self.graph_db.create_vertex_label(data)
-                if res.status_code == 202:
-                    print(f"Success import {data['name']}!")
-                    counter += 1
-            print(f"Success import {counter}/{total} of EdgeLabel.")
+        try:
+            with open(path_file, encoding="utf-8") as f:
+                counter, total = 0, 0
+                for data in json.load(f):
+                    res = self.graph_db.create_vertex_label(data)
+                    if res.status_code == 202:
+                        print(f"Success import {data['name']}!")
+                        counter += 1
+                    total += 1
+                print(f"Success import {counter}/{total} of EdgeLabel.")
+        except json.JSONDecodeError as e:
+            print("JSONDecodeError: ", e)
+        except FileNotFoundError:
+            print("File not found.")
+        except Exception as e:
+            print("An error occurred: ", e)
 
     def init_vertex(self):
         path_file = self.get_file_path('vertex')
         try:
             with open(path_file, encoding="utf-8") as f:
-                data = json.load(f)
-                counter = 0
-                total = len(json.load(f))
+                counter, total = 0, 0
                 for data in json.load(f):
                     res = self.graph_db.create_edge_label(data)
                     if res.status_code == 202:
                         print(f"Success import {data['name']}!")
                         counter += 1
+                    total += 1
                 print(f"Success import {counter}/{total} of VertexLabel.")
         except json.JSONDecodeError as e:
             print("JSONDecodeError: ", e)
@@ -69,7 +81,6 @@ class init_graph:
             print("File not found.")
         except Exception as e:
             print("An error occurred: ", e)
-            
 
     def run(self):
         # self.init_property_key()
