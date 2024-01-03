@@ -167,7 +167,8 @@
     "name": "keyword",
     "id_strategy": "DEFAULT",
     "properties": [
-        "keyword_name"
+        "keyword_name",
+        "keyword_count"
     ],
     "primary_keys": [
         "keyword_name"

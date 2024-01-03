@@ -198,5 +198,10 @@
     "name": "keyword_name",
     "data_type": "TEXT",
     "cardinality": "SINGLE"
+  },
+  {
+    "name": "keyword_count",
+    "data_type": "INT",
+    "cardinality": "SINGLE"
   }
 ]
