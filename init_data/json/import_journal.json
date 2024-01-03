@@ -1,0 +1,1406 @@
+[
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0066-4189",
+            "journal_name": "Annual Review Of Fluid Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 93
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0196-8904",
+            "journal_name": "Energy Conversion And Management",
+            "journal_jif": "Q1",
+            "journal_count": 4960
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0065-2156",
+            "journal_name": "Advances In Applied Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 19
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1994-2060",
+            "journal_name": "Engineering Applications Of Computational Fluid Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 380
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0003-6900",
+            "journal_name": "Applied Mechanics Reviews",
+            "journal_jif": "Q1",
+            "journal_count": 77
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0749-6419",
+            "journal_name": "International Journal Of Plasticity",
+            "journal_jif": "Q1",
+            "journal_count": 703
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0045-7825",
+            "journal_name": "Computer Methods In Applied Mechanics And Engineering",
+            "journal_jif": "Q1",
+            "journal_count": 2420
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0735-1933",
+            "journal_name": "International Communications In Heat And Mass Transfer",
+            "journal_jif": "Q1",
+            "journal_count": 1581
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0017-9310",
+            "journal_name": "International Journal Of Heat And Mass Transfer",
+            "journal_jif": "Q1",
+            "journal_count": 6522
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0022-5096",
+            "journal_name": "Journal Of The Mechanics And Physics Of Solids",
+            "journal_jif": "Q1",
+            "journal_count": 1251
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0263-8223",
+            "journal_name": "Composite Structures",
+            "journal_jif": "Q1",
+            "journal_count": 5687
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0020-7403",
+            "journal_name": "International Journal Of Mechanical Sciences",
+            "journal_jif": "Q1",
+            "journal_count": 2566
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1359-4311",
+            "journal_name": "Applied Thermal Engineering",
+            "journal_jif": "Q1",
+            "journal_count": 6355
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0307-904X",
+            "journal_name": "Applied Mathematical Modelling",
+            "journal_jif": "Q1",
+            "journal_count": 2378
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1056-7895",
+            "journal_name": "International Journal Of Damage Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 314
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0924-090X",
+            "journal_name": "Nonlinear Dynamics",
+            "journal_jif": "Q1",
+            "journal_count": 3267
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2352-4316",
+            "journal_name": "Extreme Mechanics Letters",
+            "journal_jif": "Q1",
+            "journal_count": 661
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1615-147X",
+            "journal_name": "Structural And Multidisciplinary Optimization",
+            "journal_jif": "Q1",
+            "journal_count": 1498
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0263-8231",
+            "journal_name": "Thin-walled Structures",
+            "journal_jif": "Q1",
+            "journal_count": 2506
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0148-6055",
+            "journal_name": "Journal Of Rheology",
+            "journal_jif": "Q1",
+            "journal_count": 417
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0013-7944",
+            "journal_name": "Engineering Fracture Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 2137
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0363-9061",
+            "journal_name": "International Journal For Numerical And Analytical Methods In Geomechanics",
+            "journal_jif": "Q1",
+            "journal_count": 514
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1007-5704",
+            "journal_name": "Communications In Nonlinear Science And Numerical Simulation",
+            "journal_jif": "Q1",
+            "journal_count": 1704
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0997-7538",
+            "journal_name": "European Journal Of Mechanics A-solids",
+            "journal_jif": "Q1",
+            "journal_count": 858
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0734-743X",
+            "journal_name": "International Journal Of Impact Engineering",
+            "journal_jif": "Q1",
+            "journal_count": 856
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0961-5539",
+            "journal_name": "International Journal Of Numerical Methods For Heat & Fluid Flow",
+            "journal_jif": "Q1",
+            "journal_count": 842
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0167-6105",
+            "journal_name": "Journal Of Wind Engineering And Industrial Aerodynamics",
+            "journal_jif": "Q1",
+            "journal_count": 1186
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1537-6494",
+            "journal_name": "Mechanics Of Advanced Materials And Structures",
+            "journal_jif": "Q1",
+            "journal_count": 766
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0167-8442",
+            "journal_name": "Theoretical And Applied Fracture Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 1128
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0178-7675",
+            "journal_name": "Computational Mechanics",
+            "journal_jif": "Q1",
+            "journal_count": 649
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1569-1713",
+            "journal_name": "International Journal Of Mechanics And Materials In Design",
+            "journal_jif": "Q1",
+            "journal_count": 206
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1090-0268",
+            "journal_name": "Journal Of Composites For Construction",
+            "journal_jif": "Q1",
+            "journal_count": 350
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0020-7683",
+            "journal_name": "International Journal Of Solids And Structures",
+            "journal_jif": "Q1",
+            "journal_count": 1606
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0935-1175",
+            "journal_name": "Continuum Mechanics And Thermodynamics",
+            "journal_jif": "Q2",
+            "journal_count": 454
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0022-460X",
+            "journal_name": "Journal Of Sound And Vibration",
+            "journal_jif": "Q2",
+            "journal_count": 2386
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0022-1120",
+            "journal_name": "Journal Of Fluid Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 4389
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0938-8974",
+            "journal_name": "Journal Of Nonlinear Science",
+            "journal_jif": "Q2",
+            "journal_count": 379
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1070-6631",
+            "journal_name": "Physics Of Fluids",
+            "journal_jif": "Q2",
+            "journal_count": 4899
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0266-8920",
+            "journal_name": "Probabilistic Engineering Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 169
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0340-0204",
+            "journal_name": "Journal Of Non-equilibrium Thermodynamics",
+            "journal_jif": "Q2",
+            "journal_count": 119
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0149-5739",
+            "journal_name": "Journal Of Thermal Stresses",
+            "journal_jif": "Q2",
+            "journal_count": 349
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0167-6636",
+            "journal_name": "Mechanics Of Materials",
+            "journal_jif": "Q2",
+            "journal_count": 1080
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1392-5113",
+            "journal_name": "Nonlinear Analysis-modelling And Control",
+            "journal_jif": "Q2",
+            "journal_count": 238
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1758-8251",
+            "journal_name": "International Journal Of Applied Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 495
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0301-9322",
+            "journal_name": "International Journal Of Multiphase Flow",
+            "journal_jif": "Q2",
+            "journal_count": 1065
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1384-5640",
+            "journal_name": "Multibody System Dynamics",
+            "journal_jif": "Q2",
+            "journal_count": 235
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1077-5463",
+            "journal_name": "Journal Of Vibration And Control",
+            "journal_jif": "Q2",
+            "journal_count": 1055
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0045-7930",
+            "journal_name": "Computers & Fluids",
+            "journal_jif": "Q2",
+            "journal_count": 1238
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0020-7462",
+            "journal_name": "International Journal Of Non-linear Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 711
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0168-874X",
+            "journal_name": "Finite Elements In Analysis And Design",
+            "journal_jif": "Q2",
+            "journal_count": 266
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1040-7782",
+            "journal_name": "Numerical Heat Transfer Part A-applications",
+            "journal_jif": "Q2",
+            "journal_count": 362
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0021-8464",
+            "journal_name": "Journal Of Adhesion",
+            "journal_jif": "Q2",
+            "journal_count": 293
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0889-9746",
+            "journal_name": "Journal Of Fluids And Structures",
+            "journal_jif": "Q2",
+            "journal_count": 790
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0253-4827",
+            "journal_name": "Applied Mathematics And Mechanics-english Edition",
+            "journal_jif": "Q2",
+            "journal_count": 498
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0014-4851",
+            "journal_name": "Experimental Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 554
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0003-9527",
+            "journal_name": "Archive For Rational Mechanics And Analysis",
+            "journal_jif": "Q2",
+            "journal_count": 580
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0142-727X",
+            "journal_name": "International Journal Of Heat And Fluid Flow",
+            "journal_jif": "Q2",
+            "journal_count": 573
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0001-5970",
+            "journal_name": "Acta Mechanica",
+            "journal_jif": "Q2",
+            "journal_count": 1217
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0377-0257",
+            "journal_name": "Journal Of Non-newtonian Fluid Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 479
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1434-5021",
+            "journal_name": "Granular Matter",
+            "journal_jif": "Q2",
+            "journal_count": 421
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0035-4511",
+            "journal_name": "Rheologica Acta",
+            "journal_jif": "Q2",
+            "journal_count": 288
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1001-6058",
+            "journal_name": "Journal Of Hydrodynamics",
+            "journal_jif": "Q2",
+            "journal_count": 476
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0219-4554",
+            "journal_name": "International Journal Of Structural Stability And Dynamics",
+            "journal_jif": "Q2",
+            "journal_count": 836
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1567-7419",
+            "journal_name": "Environmental Fluid Mechanics",
+            "journal_jif": "Q2",
+            "journal_count": 320
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0723-4864",
+            "journal_name": "Experiments In Fluids",
+            "journal_jif": "Q2",
+            "journal_count": 923
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1226-6116",
+            "journal_name": "Wind And Structures",
+            "journal_jif": "Q2",
+            "journal_count": 306
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0947-7411",
+            "journal_name": "Heat And Mass Transfer",
+            "journal_jif": "Q2",
+            "journal_count": 1014
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0376-9429",
+            "journal_name": "International Journal Of Fracture",
+            "journal_jif": "Q3",
+            "journal_count": 345
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1081-2865",
+            "journal_name": "Mathematics And Mechanics Of Solids",
+            "journal_jif": "Q3",
+            "journal_count": 606
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1386-6184",
+            "journal_name": "Flow Turbulence And Combustion",
+            "journal_jif": "Q3",
+            "journal_count": 432
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0025-6455",
+            "journal_name": "Meccanica",
+            "journal_jif": "Q3",
+            "journal_count": 784
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0093-6413",
+            "journal_name": "Mechanics Research Communications",
+            "journal_jif": "Q3",
+            "journal_count": 451
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1742-5468",
+            "journal_name": "Journal Of Statistical Mechanics-theory And Experiment",
+            "journal_jif": "Q3",
+            "journal_count": 1334
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0997-7546",
+            "journal_name": "European Journal Of Mechanics B-fluids",
+            "journal_jif": "Q3",
+            "journal_count": 659
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0145-7632",
+            "journal_name": "Heat Transfer Engineering",
+            "journal_jif": "Q3",
+            "journal_count": 591
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0021-8936",
+            "journal_name": "Journal Of Applied Mechanics-transactions Of The Asme",
+            "journal_jif": "Q3",
+            "journal_count": 633
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0894-9166",
+            "journal_name": "Acta Mechanica Solida Sinica",
+            "journal_jif": "Q3",
+            "journal_count": 302
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1385-2000",
+            "journal_name": "Mechanics Of Time-dependent Materials",
+            "journal_jif": "Q3",
+            "journal_count": 125
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0271-2091",
+            "journal_name": "International Journal For Numerical Methods In Fluids",
+            "journal_jif": "Q3",
+            "journal_count": 439
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2196-4378",
+            "journal_name": "Computational Particle Mechanics",
+            "journal_jif": "Q3",
+            "journal_count": 246
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1631-0721",
+            "journal_name": "Comptes Rendus Mecanique",
+            "journal_jif": "Q3",
+            "journal_count": 288
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0374-3535",
+            "journal_name": "Journal Of Elasticity",
+            "journal_jif": "Q3",
+            "journal_count": 234
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1555-1423",
+            "journal_name": "Journal Of Computational And Nonlinear Dynamics",
+            "journal_jif": "Q3",
+            "journal_count": 445
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0169-4243",
+            "journal_name": "Journal Of Adhesion Science And Technology",
+            "journal_jif": "Q3",
+            "journal_count": 702
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0165-2125",
+            "journal_name": "Wave Motion",
+            "journal_jif": "Q3",
+            "journal_count": 419
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1565-1339",
+            "journal_name": "International Journal Of Nonlinear Sciences And Numerical Simulation",
+            "journal_jif": "Q3",
+            "journal_count": 295
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0938-0108",
+            "journal_name": "Microgravity Science And Technology",
+            "journal_jif": "Q3",
+            "journal_count": 358
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0939-1533",
+            "journal_name": "Archive Of Applied Mechanics",
+            "journal_jif": "Q3",
+            "journal_count": 781
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0567-7718",
+            "journal_name": "Acta Mechanica Sinica",
+            "journal_jif": "Q3",
+            "journal_count": 432
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2523-3920",
+            "journal_name": "Journal Of Vibration Engineering & Technologies",
+            "journal_jif": "Q3",
+            "journal_count": 313
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1029-9599",
+            "journal_name": "Physical Mesomechanics",
+            "journal_jif": "Q3",
+            "journal_count": 267
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0938-1287",
+            "journal_name": "Shock Waves",
+            "journal_jif": "Q3",
+            "journal_count": 323
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2070-0733",
+            "journal_name": "Advances In Applied Mathematics And Mechanics",
+            "journal_jif": "Q3",
+            "journal_count": 300
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1464-4193",
+            "journal_name": "Proceedings Of The Institution Of Mechanical Engineers Part K-journal Of Multi-body Dynamics",
+            "journal_jif": "Q3",
+            "journal_count": 200
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1091-028X",
+            "journal_name": "Journal Of Porous Media",
+            "journal_jif": "Q3",
+            "journal_count": 333
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0195-928X",
+            "journal_name": "International Journal Of Thermophysics",
+            "journal_jif": "Q3",
+            "journal_count": 649
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0935-4964",
+            "journal_name": "Theoretical And Computational Fluid Dynamics",
+            "journal_jif": "Q3",
+            "journal_count": 150
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0044-2267",
+            "journal_name": "Zamm-zeitschrift Fur Angewandte Mathematik Und Mechanik",
+            "journal_jif": "Q3",
+            "journal_count": 547
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1061-8562",
+            "journal_name": "International Journal Of Computational Fluid Dynamics",
+            "journal_jif": "Q3",
+            "journal_count": 139
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0264-4401",
+            "journal_name": "Engineering Computations",
+            "journal_jif": "Q3",
+            "journal_count": 722
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1040-7790",
+            "journal_name": "Numerical Heat Transfer Part B-fundamentals",
+            "journal_jif": "Q3",
+            "journal_count": 160
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1048-9002",
+            "journal_name": "Journal Of Vibration And Acoustics-transactions Of The Asme",
+            "journal_jif": "Q4",
+            "journal_count": 440
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1430-6395",
+            "journal_name": "Applied Rheology",
+            "journal_jif": "Q4",
+            "journal_count": 69
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1070-9622",
+            "journal_name": "Shock And Vibration",
+            "journal_jif": "Q4",
+            "journal_count": 2549
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0309-3247",
+            "journal_name": "Journal Of Strain Analysis For Engineering Design",
+            "journal_jif": "Q4",
+            "journal_count": 186
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0309-1929",
+            "journal_name": "Geophysical And Astrophysical Fluid Dynamics",
+            "journal_jif": "Q4",
+            "journal_count": 126
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1226-119X",
+            "journal_name": "Korea-australia Rheology Journal",
+            "journal_jif": "Q4",
+            "journal_count": 117
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1560-3547",
+            "journal_name": "Regular & Chaotic Dynamics",
+            "journal_jif": "Q4",
+            "journal_count": 215
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1735-3572",
+            "journal_name": "Journal Of Applied Fluid Mechanics",
+            "journal_jif": "Q4",
+            "journal_count": 706
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1468-5248",
+            "journal_name": "Journal Of Turbulence",
+            "journal_jif": "Q4",
+            "journal_count": 156
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1810-2328",
+            "journal_name": "Journal Of Engineering Thermophysics",
+            "journal_jif": "Q4",
+            "journal_count": 216
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0373-2029",
+            "journal_name": "Archives Of Mechanics",
+            "journal_jif": "Q4",
+            "journal_count": 98
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0191-5665",
+            "journal_name": "Mechanics Of Composite Materials",
+            "journal_jif": "Q4",
+            "journal_count": 293
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1422-6928",
+            "journal_name": "Journal Of Mathematical Fluid Mechanics",
+            "journal_jif": "Q4",
+            "journal_count": 345
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1679-7825",
+            "journal_name": "Latin American Journal Of Solids And Structures",
+            "journal_jif": "Q4",
+            "journal_count": 393
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1559-3959",
+            "journal_name": "Journal Of Mechanics Of Materials And Structures",
+            "journal_jif": "Q4",
+            "journal_count": 150
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0732-8818",
+            "journal_name": "Experimental Techniques",
+            "journal_jif": "Q4",
+            "journal_count": 299
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1727-7191",
+            "journal_name": "Journal Of Mechanics",
+            "journal_jif": "Q4",
+            "journal_count": 297
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1475-472X",
+            "journal_name": "International Journal Of Aeroacoustics",
+            "journal_jif": "Q4",
+            "journal_count": 126
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0169-5983",
+            "journal_name": "Fluid Dynamics Research",
+            "journal_jif": "Q4",
+            "journal_count": 275
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1468-4349",
+            "journal_name": "Progress In Computational Fluid Dynamics",
+            "journal_jif": "Q4",
+            "journal_count": 123
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0869-8643",
+            "journal_name": "Thermophysics And Aeromechanics",
+            "journal_jif": "Q4",
+            "journal_count": 342
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0033-5614",
+            "journal_name": "Quarterly Journal Of Mechanics And Applied Mathematics",
+            "journal_jif": "Q4",
+            "journal_count": 89
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1429-2955",
+            "journal_name": "Journal Of Theoretical And Applied Mechanics",
+            "journal_jif": "Q4",
+            "journal_count": 322
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0387-1533",
+            "journal_name": "Nihon Reoroji Gakkaishi",
+            "journal_jif": "Q4",
+            "journal_count": 154
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2257-7777",
+            "journal_name": "Mechanics & Industry",
+            "journal_jif": "Q4",
+            "journal_count": 311
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1383-5416",
+            "journal_name": "International Journal Of Applied Electromagnetics And Mechanics",
+            "journal_jif": "Q4",
+            "journal_count": 903
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0015-4628",
+            "journal_name": "Fluid Dynamics",
+            "journal_jif": "Q4",
+            "journal_count": 392
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1028-3358",
+            "journal_name": "Doklady Physics",
+            "journal_jif": "Q4",
+            "journal_count": 344
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0021-8944",
+            "journal_name": "Journal Of Applied Mechanics And Technical Physics",
+            "journal_jif": "Q4",
+            "journal_count": 546
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1392-1207",
+            "journal_name": "Mechanika",
+            "journal_jif": "Q4",
+            "journal_count": 299
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1027-5851",
+            "journal_name": "International Journal Of Acoustics And Vibration",
+            "journal_jif": "Q4",
+            "journal_count": 246
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0024-998X",
+            "journal_name": "Magnetohydrodynamics",
+            "journal_jif": "Q4",
+            "journal_count": 184
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0018-1544",
+            "journal_name": "High Temperatures-high Pressures",
+            "journal_jif": "Q4",
+            "journal_count": 140
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0025-6544",
+            "journal_name": "Mechanics Of Solids",
+            "journal_jif": "Q4",
+            "journal_count": 551
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2234-2184",
+            "journal_name": "Coupled Systems Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 146
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1998-8621",
+            "journal_name": "Vestnik Tomskogo Gosudarstvennogo Universiteta-matematika I Mekhanika-tomsk State University Journal Of Mathematics And Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 289
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1063-7095",
+            "journal_name": "International Applied Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 277
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0137-6365",
+            "journal_name": "Studia Geotechnica Et Mechanica",
+            "journal_jif": NaN,
+            "journal_count": 144
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1450-5584",
+            "journal_name": "Theoretical And Applied Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 58
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0027-1330",
+            "journal_name": "Moscow University Mechanics Bulletin",
+            "journal_jif": NaN,
+            "journal_count": 113
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1880-5558",
+            "journal_name": "Journal Of Fluid Science And Technology",
+            "journal_jif": NaN,
+            "journal_count": 96
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2199-7446",
+            "journal_name": "Journal Of Dynamic Behavior Of Materials",
+            "journal_jif": NaN,
+            "journal_count": 209
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2095-0349",
+            "journal_name": "Theoretical And Applied Mechanics Letters",
+            "journal_jif": NaN,
+            "journal_count": 254
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2423-6713",
+            "journal_name": "Journal Of Computational Applied Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 195
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1779-7179",
+            "journal_name": "European Journal Of Computational Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 88
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2326-7186",
+            "journal_name": "Mathematics And Mechanics Of Complex Systems",
+            "journal_jif": NaN,
+            "journal_count": 67
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2152-2057",
+            "journal_name": "Composites-mechanics Computations Applications",
+            "journal_jif": NaN,
+            "journal_count": 90
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2383-4536",
+            "journal_name": "Journal Of Applied And Computational Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 487
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1064-2277",
+            "journal_name": "International Journal Of Fluid Mechanics Research",
+            "journal_jif": NaN,
+            "journal_count": 145
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1539-7734",
+            "journal_name": "Mechanics Based Design Of Structures And Machines",
+            "journal_jif": NaN,
+            "journal_count": 244
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1065-3090",
+            "journal_name": "Journal Of Flow Visualization And Image Processing",
+            "journal_jif": NaN,
+            "journal_count": 84
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "0861-6663",
+            "journal_name": "Journal Of Theoretical And Applied Mechanics-bulgaria",
+            "journal_jif": NaN,
+            "journal_count": 113
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1221-5872",
+            "journal_name": "Acta Technica Napocensis Series-applied Mathematics Mechanics And Engineering",
+            "journal_jif": NaN,
+            "journal_count": 511
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "1550-2287",
+            "journal_name": "International Journal For Computational Methods In Engineering Science & Mechanics",
+            "journal_jif": NaN,
+            "journal_count": 146
+        }
+    },
+    {
+        "label": "journal",
+        "properties": {
+            "journal_issn": "2353-7396",
+            "journal_name": "Curved And Layered Structures",
+            "journal_jif": NaN,
+            "journal_count": 91
+        }
+    }
+]
