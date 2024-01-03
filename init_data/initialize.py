@@ -119,7 +119,7 @@ class build_graph:
             try:
                 with open(path_file, encoding="utf-8") as f:
                     data = json.load(f)
-                    page = 1
+                    page = 0
                     start, end = page * self.batch_size, (page + 1) * self.batch_size
                     total = len(data)
                     while page * self.batch_size < total:
@@ -160,5 +160,5 @@ class build_graph:
 if __name__ == "__main__":
     # Init = init_graph(hugegraphClient.HugeGraphClient)
     # Init.run()
-    imp = build_graph(entity=['journal'], graph_connector=hugegraphClient.HugeGraphClient)
+    imp = build_graph(entity=['author','journal'], graph_connector=hugegraphClient.HugeGraphClient)
     imp.run()
