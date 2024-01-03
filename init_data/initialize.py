@@ -8,6 +8,7 @@ from configs.hugegraph import (
     PORT,
     GRAPH_NAME
 )
+import time
 
 
 class init_graph:
@@ -96,6 +97,7 @@ class init_graph:
 
 class build_graph:
     def __init__(self, entity, graph_connector):
+        self.batch_size = 500 # hugegraph default batch
         self.entity = entity
         self.graph_db = graph_connector(
             host=f"{HOST}",
@@ -113,14 +115,33 @@ class build_graph:
     def build_vertex(self):
         for item in self.entity:
             path_file = self.get_file_path(item)
+            time_start = time.time()
             try:
                 with open(path_file, encoding="utf-8") as f:
                     data = json.load(f)
-                    res = self.graph_db.create_multi_vertex(data)
-                    if res.status_code == 201:
-                        print(f"Success import {item} Vertex.")
-                    else:
-                        print(f"{res.response}")
+                    page = 1
+                    start, end = page * self.batch_size, (page + 1) * self.batch_size
+                    total = len(data)
+                    while page * self.batch_size < total:
+                        if (page + 1) * self.batch_size < total:
+                            sub_data = data[start: end]
+                            res = self.graph_db.create_multi_vertex(sub_data)
+                            if res.status_code == 201:
+                                print(f"Success import {item}-{page} Vertex.")
+                            else:
+                                print(f"{res.response}")
+                        else:
+                            end = total
+                            sub_data = data[start: end]
+                            res = self.graph_db.create_multi_vertex(sub_data)
+                            if res.status_code == 201:
+                                print(f"Success import {item}-{page} Vertex.")
+                            else:
+                                print(f"{res.response}")
+                        page += 1
+                        start, end = page * self.batch_size, (page + 1) * self.batch_size
+                    print(f'Time used: {time.time() - time_start}s')
+
             except json.JSONDecodeError as e:
                 print("JSONDecodeError: ", e)
             except FileNotFoundError:
