@@ -33,8 +33,10 @@ class init_graph:
                 for data in json.load(f):
                     res = self.graph_db.create_property_key(data['name'], data['data_type'], data['cardinality'])
                     if res.status_code == 202:
-                        print(f"Success import {data['name']}!")
+                        print(f"Success import {data['name']}.")
                         counter += 1
+                    else:
+                        print(f"{res.response}")
                     total += 1
                 print(f"Success import {counter}/{total} of propertykey.")
         except json.JSONDecodeError as e:
@@ -50,10 +52,12 @@ class init_graph:
             with open(path_file, encoding="utf-8") as f:
                 counter, total = 0, 0
                 for data in json.load(f):
-                    res = self.graph_db.create_vertex_label(data)
-                    if res.status_code == 202:
-                        print(f"Success import {data['name']}!")
+                    res = self.graph_db.create_edge_label(data)
+                    if res.status_code == 201:
+                        print(f"Success import {data['name']}.")
                         counter += 1
+                    else:
+                        print(f"{res.response}")
                     total += 1
                 print(f"Success import {counter}/{total} of EdgeLabel.")
         except json.JSONDecodeError as e:
@@ -69,10 +73,12 @@ class init_graph:
             with open(path_file, encoding="utf-8") as f:
                 counter, total = 0, 0
                 for data in json.load(f):
-                    res = self.graph_db.create_edge_label(data)
-                    if res.status_code == 202:
-                        print(f"Success import {data['name']}!")
+                    res = self.graph_db.create_vertex_label(data)
+                    if res.status_code == 201:
+                        print(f"Success import {data['name']}.")
                         counter += 1
+                    else:
+                        print(f"{res.response}")
                     total += 1
                 print(f"Success import {counter}/{total} of VertexLabel.")
         except json.JSONDecodeError as e:
@@ -83,7 +89,7 @@ class init_graph:
             print("An error occurred: ", e)
 
     def run(self):
-        # self.init_property_key()
+        self.init_property_key()
         self.init_vertex()
         self.init_edge()
 

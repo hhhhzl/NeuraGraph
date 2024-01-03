@@ -45,6 +45,11 @@
     "cardinality": "SINGLE"
   },
   {
+    "name": "paper_doi",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
     "name": "paper_title",
     "data_type": "TEXT",
     "cardinality": "SINGLE"
@@ -61,11 +66,6 @@
   },
   {
     "name": "paper_funding",
-    "data_type": "TEXT",
-    "cardinality": "SINGLE"
-  },
-  {
-    "name": "paper_corresponding_email",
     "data_type": "TEXT",
     "cardinality": "SINGLE"
   },

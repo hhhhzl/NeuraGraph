@@ -22,7 +22,7 @@
     "enable_label_index": true
   },
   {
-    "name": "belongs_to",
+    "name": "falls_into",
     "source_label": "journal",
     "target_label": "subject",
     "frequency": "SINGLE",
@@ -55,7 +55,7 @@
     "enable_label_index": true
   },
   {
-    "name": "produces",
+    "name": "produces_paper",
     "source_label": "author",
     "target_label": "paper",
     "frequency": "SINGLE",
@@ -66,7 +66,7 @@
     "enable_label_index": true
   },
   {
-    "name": "produces",
+    "name": "produces_e_journal",
     "source_label": "author",
     "target_label": "e_journal",
     "frequency": "SINGLE",
@@ -77,7 +77,7 @@
     "enable_label_index": true
   },
   {
-    "name": "produces",
+    "name": "produces_book",
     "source_label": "author",
     "target_label": "book",
     "frequency": "SINGLE",
@@ -88,7 +88,7 @@
     "enable_label_index": true
   },
   {
-    "name": "produces",
+    "name": "produces_patent",
     "source_label": "author",
     "target_label": "patent",
     "frequency": "SINGLE",
@@ -99,7 +99,7 @@
     "enable_label_index": true
   },
   {
-    "name": "produces",
+    "name": "produces_report",
     "source_label": "author",
     "target_label": "report",
     "frequency": "SINGLE",
@@ -110,7 +110,7 @@
     "enable_label_index": true
   },
   {
-    "name": "produces",
+    "name": "produces_standard",
     "source_label": "author",
     "target_label": "standard",
     "frequency": "SINGLE",
@@ -176,7 +176,7 @@
     "enable_label_index": true
   },
   {
-    "name": "under",
+    "name": "affiliates with",
     "source_label": "institute",
     "target_label": "institute",
     "frequency": "SINGLE",
