@@ -95,8 +95,38 @@ class init_graph:
 
 
 class build_graph:
+    def __init__(self, entity, graph_connector):
+        self.entity = entity
+        self.graph_db = graph_connector(
+            host=f"{HOST}",
+            port=PORT,
+            graph_name=f"{GRAPH_NAME}"
+        )
+
+    def get_file_path(self, type):
+        # function to get the file or json
+        path_file = os.path.join(dirname(abspath(__file__)), 'json', f'import_{type}.json')
+        if not os.path.isfile(path_file):
+            return
+        return path_file
+
     def build_vertex(self):
-        pass
+        for item in self.entity:
+            path_file = self.get_file_path(item)
+            try:
+                with open(path_file, encoding="utf-8") as f:
+                    data = json.load(f)
+                    res = self.graph_db.create_multi_vertex(data)
+                    if res.status_code == 201:
+                        print(f"Success import {item} Vertex.")
+                    else:
+                        print(f"{res.response}")
+            except json.JSONDecodeError as e:
+                print("JSONDecodeError: ", e)
+            except FileNotFoundError:
+                print("File not found.")
+            except Exception as e:
+                print("An error occurred: ", e)
 
     def build_relations(self):
         pass
@@ -107,5 +137,7 @@ class build_graph:
 
 
 if __name__ == "__main__":
-    Init = init_graph(hugegraphClient.HugeGraphClient)
-    Init.run()
+    # Init = init_graph(hugegraphClient.HugeGraphClient)
+    # Init.run()
+    imp = build_graph(entity=['author', 'paper'], graph_connector=hugegraphClient.HugeGraphClient)
+    imp.run()
