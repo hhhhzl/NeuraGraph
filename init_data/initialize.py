@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from os.path import dirname, abspath
 import json
-from GraphDbAPIs.HugeGraphAPIs import hugegraphClient
+from NeuraGraphAPIs.HugeGraphAPIs import hugegraphClient
 from configs.hugegraph import (
     HOST,
     PORT,
@@ -29,28 +29,50 @@ class init_graph:
     def init_property_key(self):
         path_file = self.get_file_path('propertykey')
         with open(path_file, encoding="utf-8") as f:
+            counter = 0
+            total = len(json.load(f))
             for data in json.load(f):
                 res = self.graph_db.create_property_key(data['name'], data['data_type'], data['cardinality'])
-                print(res.status_code)
-                if res.status_code == 201:
-                    print('success!')
+                if res.status_code == 202:
+                    print(f"Success import {data['name']}!")
+                    counter += 1
+            print(f"Success import {counter}/{total} of propertykey.")
 
     def init_edge(self):
         path_file = self.get_file_path('edge')
-        with open(path_file, encoding="utf-8") as f:
+        with open(path_file, 'r') as f:
+            counter = 0
+            total = len(json.load(f))
             for data in json.load(f):
                 self.graph_db.create_vertex_label(data)
+                if res.status_code == 202:
+                    print(f"Success import {data['name']}!")
+                    counter += 1
+            print(f"Success import {counter}/{total} of EdgeLabel.")
 
     def init_vertex(self):
         path_file = self.get_file_path('vertex')
-        with open(path_file, encoding="utf-8") as f:
-            for data in json.load(f):
-                res = self.graph_db.create_edge_label(data)
-                if res.status_code == 201:
-                    print('success!')
+        try:
+            with open(path_file, encoding="utf-8") as f:
+                data = json.load(f)
+                counter = 0
+                total = len(json.load(f))
+                for data in json.load(f):
+                    res = self.graph_db.create_edge_label(data)
+                    if res.status_code == 202:
+                        print(f"Success import {data['name']}!")
+                        counter += 1
+                print(f"Success import {counter}/{total} of VertexLabel.")
+        except json.JSONDecodeError as e:
+            print("JSONDecodeError: ", e)
+        except FileNotFoundError:
+            print("File not found.")
+        except Exception as e:
+            print("An error occurred: ", e)
+            
 
     def run(self):
-        self.init_property_key()
+        # self.init_property_key()
         self.init_vertex()
         self.init_edge()
 

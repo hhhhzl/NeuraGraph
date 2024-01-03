@@ -1,4 +1,4 @@
 HOST = 'localhost'
-PORT = 18080
-GRAPH_NAME = 'hugegraph'
+PORT = 8080
+GRAPH_NAME = 'STCKG'
 PASSWORD = ''

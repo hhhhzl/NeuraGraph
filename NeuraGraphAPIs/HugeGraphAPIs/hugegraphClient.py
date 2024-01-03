@@ -91,7 +91,7 @@
 """
 import json
 import requests
-from GraphDbAPIs.HugeGraphAPIs.response import Response
+from NeuraGraphAPIs.HugeGraphAPIs.response import Response
 
 
 # reload(sys)
