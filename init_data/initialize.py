@@ -160,5 +160,5 @@ class build_graph:
 if __name__ == "__main__":
     # Init = init_graph(hugegraphClient.HugeGraphClient)
     # Init.run()
-    imp = build_graph(entity=['keyword'], graph_connector=hugegraphClient.HugeGraphClient)
+    imp = build_graph(entity=['subject'], graph_connector=hugegraphClient.HugeGraphClient)
     imp.run()

@@ -1,0 +1,2154 @@
+[
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Acoustics",
+            "subject_abbrev": "Acoust.",
+            "subject_chinese_name": "\u58f0\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Agricultural Economics & Policy",
+            "subject_abbrev": "Agric. Econ. Policy",
+            "subject_chinese_name": "\u519c\u4e1a\u7ecf\u6d4e\u4e0e\u653f\u7b56"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Agricultural Engineering",
+            "subject_abbrev": "Agric. Eng.",
+            "subject_chinese_name": "\u519c\u4e1a\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Agriculture",
+            "subject_abbrev": "Agric.",
+            "subject_chinese_name": "\u519c\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Dairy & Animal Science Agriculture",
+            "subject_abbrev": "Dairy Anim. Sci. Agric.",
+            "subject_chinese_name": "\u5976\u4e1a\u4e0e\u52a8\u7269\u79d1\u5b66\u519c\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Agriculture",
+            "subject_abbrev": "Multidiscip. Agric.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u519c\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Agronomy",
+            "subject_abbrev": "Agron.",
+            "subject_chinese_name": "\u519c\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Allergy",
+            "subject_abbrev": "Allergy",
+            "subject_chinese_name": "\u8fc7\u654f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Anatomy & Morphology",
+            "subject_abbrev": "Anat. Morphol.",
+            "subject_chinese_name": "\u89e3\u5256\u5b66\u4e0e\u5f62\u6001\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Andrology",
+            "subject_abbrev": "Androl.",
+            "subject_chinese_name": "\u7537\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Anesthesiology",
+            "subject_abbrev": "Anesthesiol.",
+            "subject_chinese_name": "\u9ebb\u9189\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Anthropology",
+            "subject_abbrev": "Anthropol.",
+            "subject_chinese_name": "\u4eba\u7c7b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Archaeology",
+            "subject_abbrev": "Archaeol.",
+            "subject_chinese_name": "\u8003\u53e4\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Architecture",
+            "subject_abbrev": "Archit.",
+            "subject_chinese_name": "\u5efa\u7b51\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Area Studies",
+            "subject_abbrev": "Area Stud.",
+            "subject_chinese_name": "\u533a\u57df\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Art",
+            "subject_abbrev": "Art",
+            "subject_chinese_name": "\u827a\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Asian Studies",
+            "subject_abbrev": "Asian Stud.",
+            "subject_chinese_name": "\u4e9a\u6d32\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Astronomy & Astrophysics",
+            "subject_abbrev": "Astron. Astrophys.",
+            "subject_chinese_name": "\u5929\u6587\u5b66\u4e0e\u5929\u4f53\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Automation & Control Systems",
+            "subject_abbrev": "Autom. Control Syst.",
+            "subject_chinese_name": "\u81ea\u52a8\u5316\u4e0e\u63a7\u5236\u7cfb\u7edf"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Behavioral Sciences",
+            "subject_abbrev": "Behav. Sci.",
+            "subject_chinese_name": "\u884c\u4e3a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biochemical Research Methods",
+            "subject_abbrev": "Biochem. Res. Methods",
+            "subject_chinese_name": "\u751f\u5316\u7814\u7a76\u65b9\u6cd5"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biochemistry & Molecular Biology",
+            "subject_abbrev": "Biochem. Mol. Biol.",
+            "subject_chinese_name": "\u751f\u7269\u5316\u5b66\u4e0e\u5206\u5b50\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biodiversity Conservation",
+            "subject_abbrev": "Biodivers. Conserv.",
+            "subject_chinese_name": "\u751f\u7269\u591a\u6837\u6027\u4fdd\u62a4"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biology",
+            "subject_abbrev": "Biol.",
+            "subject_chinese_name": "\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biophysics",
+            "subject_abbrev": "Biophys.",
+            "subject_chinese_name": "\u751f\u7269\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biotechnology & Applied Microbiology",
+            "subject_abbrev": "Biotechnol. Appl. Microbiol.",
+            "subject_chinese_name": "\u751f\u7269\u6280\u672f\u4e0e\u5e94\u7528\u5fae\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Business",
+            "subject_abbrev": "Bus.",
+            "subject_chinese_name": "\u5546\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Finance Business",
+            "subject_abbrev": "Finance Bus.",
+            "subject_chinese_name": "\u91d1\u878d\u5546\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Cardiac & Cardiovascular Systems",
+            "subject_abbrev": "Cardiac Cardiovasc. Syst.",
+            "subject_chinese_name": "\u5fc3\u810f\u4e0e\u5fc3\u8840\u7ba1\u7cfb\u7edf"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Cell & Tissue Engineering",
+            "subject_abbrev": "Cell Tissue Eng.",
+            "subject_chinese_name": "\u7ec6\u80de\u4e0e\u7ec4\u7ec7\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Cell Biology",
+            "subject_abbrev": "Cell Biol.",
+            "subject_chinese_name": "\u7ec6\u80de\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Chemistry",
+            "subject_abbrev": "Chem.",
+            "subject_chinese_name": "\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Analytical Chemistry",
+            "subject_abbrev": "Anal. Chem.",
+            "subject_chinese_name": "\u5206\u6790\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Applied Chemistry",
+            "subject_abbrev": "Appl. Chem.",
+            "subject_chinese_name": "\u5e94\u7528\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Inorganic & Nuclear Chemistry",
+            "subject_abbrev": "Inorg. Nucl. Chem.",
+            "subject_chinese_name": "\u65e0\u673a\u4e0e\u6838\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Medicinal Chemistry",
+            "subject_abbrev": "Med. Chem.",
+            "subject_chinese_name": "\u836f\u7269\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Chemistry",
+            "subject_abbrev": "Multidiscip. Chem.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Organic Chemistry",
+            "subject_abbrev": "Org. Chem.",
+            "subject_chinese_name": "\u6709\u673a\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Physical Chemistry",
+            "subject_abbrev": "Phys. Chem.",
+            "subject_chinese_name": "\u7269\u7406\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Classics",
+            "subject_abbrev": "Classics",
+            "subject_chinese_name": "\u53e4\u5178\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Clinical Neurology",
+            "subject_abbrev": "Clin. Neurol.",
+            "subject_chinese_name": "\u4e34\u5e8a\u795e\u7ecf\u75c5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Communication",
+            "subject_abbrev": "Commun.",
+            "subject_chinese_name": "\u901a\u4fe1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Computer Science",
+            "subject_abbrev": "Comput. Sci.",
+            "subject_chinese_name": "\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Artificial Intelligence Computer Science",
+            "subject_abbrev": "Artif. Intell. Comput. Sci.",
+            "subject_chinese_name": "\u4eba\u5de5\u667a\u80fd\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Cybernetics Computer Science",
+            "subject_abbrev": "Cybernet. Comput. Sci.",
+            "subject_chinese_name": "\u63a7\u5236\u8bba\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Hardware & Architecture Computer Science",
+            "subject_abbrev": "Hardware Archit. Comput. Sci.",
+            "subject_chinese_name": "\u786c\u4ef6\u4e0e\u4f53\u7cfb\u7ed3\u6784\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Information Systems Computer Science",
+            "subject_abbrev": "Inf. Syst. Comput. Sci.",
+            "subject_chinese_name": "\u4fe1\u606f\u7cfb\u7edf\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Interdisciplinary Applications Computer Science",
+            "subject_abbrev": "Interdiscip. Appl. Comput. Sci.",
+            "subject_chinese_name": "\u8de8\u5b66\u79d1\u5e94\u7528\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Software Engineering Computer Science",
+            "subject_abbrev": "Software Eng. Comput. Sci.",
+            "subject_chinese_name": "\u8f6f\u4ef6\u5de5\u7a0b\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Theory & Methods Computer Science",
+            "subject_abbrev": "Theory Methods Comput. Sci.",
+            "subject_chinese_name": "\u7406\u8bba\u4e0e\u65b9\u6cd5\u8ba1\u7b97\u673a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Construction & Building Technology",
+            "subject_abbrev": "Constr. Build. Technol.",
+            "subject_chinese_name": "\u5efa\u7b51\u4e0e\u5efa\u7b51\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Criminology & Penology",
+            "subject_abbrev": "Criminol. Penol.",
+            "subject_chinese_name": "\u72af\u7f6a\u5b66\u4e0e\u5211\u6cd5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Critical Care Medicine",
+            "subject_abbrev": "Crit. Care Med.",
+            "subject_chinese_name": "\u91cd\u75c7\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Crystallography",
+            "subject_abbrev": "Crystallogr.",
+            "subject_chinese_name": "\u6676\u4f53\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Cultural Studies",
+            "subject_abbrev": "Cult. Stud.",
+            "subject_chinese_name": "\u6587\u5316\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Dance",
+            "subject_abbrev": "Dance",
+            "subject_chinese_name": "\u821e\u8e48"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Demography",
+            "subject_abbrev": "Demogr.",
+            "subject_chinese_name": "\u4eba\u53e3\u7edf\u8ba1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Dentistry",
+            "subject_abbrev": "Dent.",
+            "subject_chinese_name": "\u7259\u79d1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Oral Surgery & Medicine Dentistry",
+            "subject_abbrev": "Oral Surg. Med. Dent.",
+            "subject_chinese_name": "\u53e3\u8154\u5916\u79d1\u4e0e\u533b\u5b66\u7259\u79d1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Dermatology",
+            "subject_abbrev": "Dermatol.",
+            "subject_chinese_name": "\u76ae\u80a4\u75c5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Development Studies",
+            "subject_abbrev": "Dev. Stud.",
+            "subject_chinese_name": "\u53d1\u5c55\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Developmental Biology",
+            "subject_abbrev": "Dev. Biol.",
+            "subject_chinese_name": "\u53d1\u80b2\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ecology",
+            "subject_abbrev": "Ecol.",
+            "subject_chinese_name": "\u751f\u6001\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Economics",
+            "subject_abbrev": "Econ.",
+            "subject_chinese_name": "\u7ecf\u6d4e\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Education & Educational Research",
+            "subject_abbrev": "Educ. Educ. Res.",
+            "subject_chinese_name": "\u6559\u80b2\u4e0e\u6559\u80b2\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Education",
+            "subject_abbrev": "Educ.",
+            "subject_chinese_name": "\u6559\u80b2"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Scientific Disciplines Education",
+            "subject_abbrev": "Sci. Disciplines Educ.",
+            "subject_chinese_name": "\u79d1\u5b66\u5b66\u79d1\u6559\u80b2"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Special Education",
+            "subject_abbrev": "Spec. Educ.",
+            "subject_chinese_name": "\u7279\u6b8a\u6559\u80b2"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Electrochemistry",
+            "subject_abbrev": "Electrochem.",
+            "subject_chinese_name": "\u7535\u5316\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Emergency Medicine",
+            "subject_abbrev": "Emerg. Med.",
+            "subject_chinese_name": "\u6025\u8bca\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Endocrinology & Metabolism",
+            "subject_abbrev": "Endocrinol. Metab.",
+            "subject_chinese_name": "\u5185\u5206\u6ccc\u4e0e\u4ee3\u8c22"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Energy & Fuels",
+            "subject_abbrev": "Energy Fuels",
+            "subject_chinese_name": "\u80fd\u6e90\u4e0e\u71c3\u6599"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Engineering",
+            "subject_abbrev": "Eng.",
+            "subject_chinese_name": "\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Aerospace Engineering",
+            "subject_abbrev": "Aerospace Eng.",
+            "subject_chinese_name": "\u822a\u7a7a\u822a\u5929\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biomedical Engineering",
+            "subject_abbrev": "Biomed. Eng.",
+            "subject_chinese_name": "\u751f\u7269\u533b\u5b66\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Chemical Engineering",
+            "subject_abbrev": "Chem. Eng.",
+            "subject_chinese_name": "\u5316\u5b66\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Civil Engineering",
+            "subject_abbrev": "Civil Eng.",
+            "subject_chinese_name": "\u571f\u6728\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Electrical & Electronic Engineering",
+            "subject_abbrev": "Electr. Electron. Eng.",
+            "subject_chinese_name": "\u7535\u6c14\u4e0e\u7535\u5b50\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Environmental Engineering",
+            "subject_abbrev": "Environ. Eng.",
+            "subject_chinese_name": "\u73af\u5883\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Geological Engineering",
+            "subject_abbrev": "Geol. Eng.",
+            "subject_chinese_name": "\u5730\u8d28\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Industrial Engineering",
+            "subject_abbrev": "Ind. Eng.",
+            "subject_chinese_name": "\u5de5\u4e1a\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Manufacturing Engineering",
+            "subject_abbrev": "Manuf. Eng.",
+            "subject_chinese_name": "\u5236\u9020\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Marine Engineering",
+            "subject_abbrev": "Marine Eng.",
+            "subject_chinese_name": "\u6d77\u6d0b\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mechanical Engineering",
+            "subject_abbrev": "Mech. Eng.",
+            "subject_chinese_name": "\u673a\u68b0\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Engineering",
+            "subject_abbrev": "Multidiscip. Eng.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ocean Engineering",
+            "subject_abbrev": "Ocean Eng.",
+            "subject_chinese_name": "\u6d77\u6d0b\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Petroleum Engineering",
+            "subject_abbrev": "Petroleum Eng.",
+            "subject_chinese_name": "\u77f3\u6cb9\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Entomology",
+            "subject_abbrev": "Entomol.",
+            "subject_chinese_name": "\u6606\u866b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Environmental Sciences",
+            "subject_abbrev": "Environ. Sci.",
+            "subject_chinese_name": "\u73af\u5883\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Environmental Studies",
+            "subject_abbrev": "Environ. Stud.",
+            "subject_chinese_name": "\u73af\u5883\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ergonomics",
+            "subject_abbrev": "Ergonomics",
+            "subject_chinese_name": "\u4eba\u56e0\u5de5\u7a0b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ethics",
+            "subject_abbrev": "Ethics",
+            "subject_chinese_name": "\u4f26\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ethnic Studies",
+            "subject_abbrev": "Ethnic Stud.",
+            "subject_chinese_name": "\u6c11\u65cf\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Evolutionary Biology",
+            "subject_abbrev": "Evol. Biol.",
+            "subject_chinese_name": "\u8fdb\u5316\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Family Studies",
+            "subject_abbrev": "Fam. Stud.",
+            "subject_chinese_name": "\u5bb6\u5ead\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Film",
+            "subject_abbrev": "Film",
+            "subject_chinese_name": "\u7535\u5f71"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Radio Film",
+            "subject_abbrev": "Radio Film",
+            "subject_chinese_name": "\u5e7f\u64ad\u7535\u5f71"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Fisheries",
+            "subject_abbrev": "Fisheries",
+            "subject_chinese_name": "\u6e14\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Folklore",
+            "subject_abbrev": "Folklore",
+            "subject_chinese_name": "\u6c11\u4fd7\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Food Science & Technology",
+            "subject_abbrev": "Food Sci. Technol.",
+            "subject_chinese_name": "\u98df\u54c1\u79d1\u5b66\u4e0e\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Forestry",
+            "subject_abbrev": "Forestry",
+            "subject_chinese_name": "\u6797\u4e1a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Gastroenterology & Hepatology",
+            "subject_abbrev": "Gastroenterol. Hepatol.",
+            "subject_chinese_name": "\u80c3\u80a0\u75c5\u5b66\u4e0e\u809d\u75c5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Genetics & Heredity",
+            "subject_abbrev": "Genet. Hered.",
+            "subject_chinese_name": "\u9057\u4f20\u5b66\u4e0e\u9057\u4f20"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Geochemistry & Geophysics",
+            "subject_abbrev": "Geochem. Geophys.",
+            "subject_chinese_name": "\u5730\u7403\u5316\u5b66\u4e0e\u5730\u7403\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Geography",
+            "subject_abbrev": "Geogr.",
+            "subject_chinese_name": "\u5730\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Physical Geography",
+            "subject_abbrev": "Phys. Geogr.",
+            "subject_chinese_name": "\u7269\u7406\u5730\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Geology",
+            "subject_abbrev": "Geol.",
+            "subject_chinese_name": "\u5730\u8d28\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Geosciences",
+            "subject_abbrev": "Geosci.",
+            "subject_chinese_name": "\u5730\u7403\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Geosciences",
+            "subject_abbrev": "Multidiscip. Geosci.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u5730\u7403\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Geriatrics & Gerontology",
+            "subject_abbrev": "Geriatr. Gerontol.",
+            "subject_chinese_name": "\u8001\u5e74\u75c5\u5b66\u4e0e\u8001\u5e74\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Gerontology",
+            "subject_abbrev": "Gerontol.",
+            "subject_chinese_name": "\u8001\u5e74\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Green & Sustainable Science & Technology",
+            "subject_abbrev": "Green Sustain. Sci. Technol.",
+            "subject_chinese_name": "\u7eff\u8272\u4e0e\u53ef\u6301\u7eed\u79d1\u5b66\u4e0e\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Health Care Sciences & Services",
+            "subject_abbrev": "Health Care Sci. Serv.",
+            "subject_chinese_name": "\u536b\u751f\u4fdd\u5065\u79d1\u5b66\u4e0e\u670d\u52a1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Health Policy & Services",
+            "subject_abbrev": "Health Policy Serv.",
+            "subject_chinese_name": "\u536b\u751f\u653f\u7b56\u4e0e\u670d\u52a1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Hematology",
+            "subject_abbrev": "Hematol.",
+            "subject_chinese_name": "\u8840\u6db2\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "History",
+            "subject_abbrev": "Hist.",
+            "subject_chinese_name": "\u5386\u53f2"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "History & Philosophy Of Science",
+            "subject_abbrev": "Hist. Philos. Sci.",
+            "subject_chinese_name": "\u79d1\u5b66\u5386\u53f2\u4e0e\u54f2\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "History Of Social Sciences",
+            "subject_abbrev": "Hist. Soc. Sci.",
+            "subject_chinese_name": "\u793e\u4f1a\u79d1\u5b66\u5386\u53f2"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Horticulture",
+            "subject_abbrev": "Hort.",
+            "subject_chinese_name": "\u56ed\u827a"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Hospitality",
+            "subject_abbrev": "Hosp.",
+            "subject_chinese_name": "\u9152\u5e97\u7ba1\u7406"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Leisure Hospitality",
+            "subject_abbrev": "Leis. Hosp.",
+            "subject_chinese_name": "\u4f11\u95f2\u9152\u5e97\u7ba1\u7406"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Humanities",
+            "subject_abbrev": "Hum.",
+            "subject_chinese_name": "\u4eba\u6587\u5b66\u79d1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Humanities",
+            "subject_abbrev": "Multidiscip. Hum.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u4eba\u6587\u5b66\u79d1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Imaging Science & Photographic Technology",
+            "subject_abbrev": "Imaging Sci. Phototechnol.",
+            "subject_chinese_name": "\u6210\u50cf\u79d1\u5b66\u4e0e\u6444\u5f71\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Immunology",
+            "subject_abbrev": "Immunol.",
+            "subject_chinese_name": "\u514d\u75ab\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Industrial Relations & Labor",
+            "subject_abbrev": "Ind. Relat. Labor",
+            "subject_chinese_name": "\u5de5\u4e1a\u5173\u7cfb\u4e0e\u52b3\u5de5"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Infectious Diseases",
+            "subject_abbrev": "Infect. Dis.",
+            "subject_chinese_name": "\u4f20\u67d3\u75c5"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Information Science & Library Science",
+            "subject_abbrev": "Inf. Sci. Libr. Sci.",
+            "subject_chinese_name": "\u4fe1\u606f\u79d1\u5b66\u4e0e\u56fe\u4e66\u9986\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Instruments & Instrumentation",
+            "subject_abbrev": "Instrum. Instrum.",
+            "subject_chinese_name": "\u4eea\u5668\u4e0e\u4eea\u8868"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Integrative & Complementary Medicine",
+            "subject_abbrev": "Integr. Complement. Med.",
+            "subject_chinese_name": "\u7efc\u5408\u4e0e\u8865\u5145\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "International Relations",
+            "subject_abbrev": "Int. Relat.",
+            "subject_chinese_name": "\u56fd\u9645\u5173\u7cfb"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Language & Linguistics",
+            "subject_abbrev": "Lang. Linguist.",
+            "subject_chinese_name": "\u8bed\u8a00\u4e0e\u8bed\u8a00\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Law",
+            "subject_abbrev": "Law",
+            "subject_chinese_name": "\u6cd5\u5f8b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Limnology",
+            "subject_abbrev": "Limnol.",
+            "subject_chinese_name": "\u6e56\u6cca\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Linguistics",
+            "subject_abbrev": "Linguist.",
+            "subject_chinese_name": "\u8bed\u8a00\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Literary Reviews",
+            "subject_abbrev": "Literary Rev.",
+            "subject_chinese_name": "\u6587\u5b66\u8bc4\u8bba"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Literary Theory & Criticism",
+            "subject_abbrev": "Lit. Theory Crit.",
+            "subject_chinese_name": "\u6587\u5b66\u7406\u8bba\u4e0e\u6279\u8bc4"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Literature",
+            "subject_abbrev": "Lit.",
+            "subject_chinese_name": "\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "African Literature",
+            "subject_abbrev": "Afr. Lit.",
+            "subject_chinese_name": "\u975e\u6d32\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "American Literature",
+            "subject_abbrev": "Am. Lit.",
+            "subject_chinese_name": "\u7f8e\u56fd\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "British Isles Literature",
+            "subject_abbrev": "Br. Isles Lit.",
+            "subject_chinese_name": "\u4e0d\u5217\u98a0\u7fa4\u5c9b\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "German Literature",
+            "subject_abbrev": "Ger. Lit.",
+            "subject_chinese_name": "\u5fb7\u56fd\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Romance Literature",
+            "subject_abbrev": "Rom. Lit.",
+            "subject_chinese_name": "\u7f57\u66fc\u65af\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Slavic Literature",
+            "subject_abbrev": "Slav. Lit.",
+            "subject_chinese_name": "\u65af\u62c9\u592b\u6587\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Logic",
+            "subject_abbrev": "Logic",
+            "subject_chinese_name": "\u903b\u8f91\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Management",
+            "subject_abbrev": "Manag.",
+            "subject_chinese_name": "\u7ba1\u7406"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Marine & Freshwater Biology",
+            "subject_abbrev": "Mar. Freshwater Biol.",
+            "subject_chinese_name": "\u6d77\u6d0b\u4e0e\u6de1\u6c34\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Materials Science",
+            "subject_abbrev": "Mater. Sci.",
+            "subject_chinese_name": "\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biomaterials Materials Science",
+            "subject_abbrev": "Biomater. Mater. Sci.",
+            "subject_chinese_name": "\u751f\u7269\u6750\u6599\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ceramics Materials Science",
+            "subject_abbrev": "Ceram. Mater. Sci.",
+            "subject_chinese_name": "\u9676\u74f7\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Characterization & Testing Materials Science",
+            "subject_abbrev": "Charact. Test. Mater. Sci.",
+            "subject_chinese_name": "\u6750\u6599\u79d1\u5b66\u7684\u8868\u5f81\u4e0e\u6d4b\u8bd5"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Coatings & Films Materials Science",
+            "subject_abbrev": "Coat. Films Mater. Sci.",
+            "subject_chinese_name": "\u6d82\u6599\u548c\u8584\u819c\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Composites Materials Science",
+            "subject_abbrev": "Compos. Mater. Sci.",
+            "subject_chinese_name": "\u590d\u5408\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Materials Science",
+            "subject_abbrev": "Multidiscip. Mater. Sci.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Paper & Wood Materials Science",
+            "subject_abbrev": "Pap. Wood Mater. Sci.",
+            "subject_chinese_name": "\u7eb8\u5f20\u548c\u6728\u6750\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Textiles Materials Science",
+            "subject_abbrev": "Text. Mater. Sci.",
+            "subject_chinese_name": "\u7eba\u7ec7\u6750\u6599\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mathematical & Computational Biology",
+            "subject_abbrev": "Math. Comput. Biol.",
+            "subject_chinese_name": "\u6570\u5b66\u4e0e\u8ba1\u7b97\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mathematics",
+            "subject_abbrev": "Math.",
+            "subject_chinese_name": "\u6570\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Applied Mathematics",
+            "subject_abbrev": "Appl. Math.",
+            "subject_chinese_name": "\u5e94\u7528\u6570\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Interdisciplinary Applications Mathematics",
+            "subject_abbrev": "Interdiscip. Appl. Math.",
+            "subject_chinese_name": "\u8de8\u5b66\u79d1\u5e94\u7528\u6570\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mechanics",
+            "subject_abbrev": "Mech.",
+            "subject_chinese_name": "\u529b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Medical Ethics",
+            "subject_abbrev": "Med. Ethics",
+            "subject_chinese_name": "\u533b\u5b66\u4f26\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Medical Informatics",
+            "subject_abbrev": "Med. Inform.",
+            "subject_chinese_name": "\u533b\u5b66\u4fe1\u606f\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Medical Laboratory Technology",
+            "subject_abbrev": "Med. Lab. Technol.",
+            "subject_chinese_name": "\u533b\u5b66\u5b9e\u9a8c\u5ba4\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Medicine",
+            "subject_abbrev": "Med.",
+            "subject_chinese_name": "\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "General & Internal Medicine",
+            "subject_abbrev": "Gen. Intern. Med.",
+            "subject_chinese_name": "\u901a\u7528\u4e0e\u5185\u79d1\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Legal Medicine",
+            "subject_abbrev": "Med. Legal",
+            "subject_chinese_name": "\u6cd5\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Research & Experimental Medicine",
+            "subject_abbrev": "Res. Exp. Med.",
+            "subject_chinese_name": "\u7814\u7a76\u4e0e\u5b9e\u9a8c\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Medieval & Renaissance Studies",
+            "subject_abbrev": "Mediev. Renaiss. Stud.",
+            "subject_chinese_name": "\u4e2d\u4e16\u7eaa\u4e0e\u6587\u827a\u590d\u5174\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Metallurgy & Metallurgical Engineering",
+            "subject_abbrev": "Metall. Metall. Eng.",
+            "subject_chinese_name": "\u51b6\u91d1\u4e0e\u51b6\u91d1\u5de5\u7a0b"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Meteorology & Atmospheric Sciences",
+            "subject_abbrev": "Meteorol. Atmos. Sci.",
+            "subject_chinese_name": "\u6c14\u8c61\u4e0e\u5927\u6c14\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Microbiology",
+            "subject_abbrev": "Microbiol.",
+            "subject_chinese_name": "\u5fae\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Microscopy",
+            "subject_abbrev": "Microsc.",
+            "subject_chinese_name": "\u663e\u5fae\u955c"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mineralogy",
+            "subject_abbrev": "Mineral.",
+            "subject_chinese_name": "\u77ff\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mining & Mineral Processing",
+            "subject_abbrev": "Mining Miner. Process.",
+            "subject_chinese_name": "\u77ff\u4e1a\u4e0e\u77ff\u7269\u52a0\u5de5"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Sciences",
+            "subject_abbrev": "Multidiscip. Sci.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Music",
+            "subject_abbrev": "Music",
+            "subject_chinese_name": "\u97f3\u4e50\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mycology",
+            "subject_abbrev": "Mycology",
+            "subject_chinese_name": "\u771f\u83cc\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Nanoscience & Nanotechnology",
+            "subject_abbrev": "Nanosci. Nanotechnol.",
+            "subject_chinese_name": "\u7eb3\u7c73\u79d1\u5b66\u4e0e\u7eb3\u7c73\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Neuroimaging",
+            "subject_abbrev": "Neuroimaging",
+            "subject_chinese_name": "\u795e\u7ecf\u5f71\u50cf\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Neurosciences",
+            "subject_abbrev": "Neurosci.",
+            "subject_chinese_name": "\u795e\u7ecf\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Nuclear Science & Technology",
+            "subject_abbrev": "Nucl. Sci. Technol.",
+            "subject_chinese_name": "\u6838\u79d1\u5b66\u4e0e\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Nursing",
+            "subject_abbrev": "Nurs.",
+            "subject_chinese_name": "\u62a4\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Nutrition & Dietetics",
+            "subject_abbrev": "Nutr. Diet.",
+            "subject_chinese_name": "\u8425\u517b\u4e0e\u8425\u517b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Obstetrics & Gynecology",
+            "subject_abbrev": "Obstet. Gynecol.",
+            "subject_chinese_name": "\u5987\u4ea7\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Oceanography",
+            "subject_abbrev": "Oceanogr.",
+            "subject_chinese_name": "\u6d77\u6d0b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Oncology",
+            "subject_abbrev": "Oncol.",
+            "subject_chinese_name": "\u80bf\u7624\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Operations Research & Management Science",
+            "subject_abbrev": "Oper. Res. Manag. Sci.",
+            "subject_chinese_name": "\u8fd0\u7b79\u5b66\u4e0e\u7ba1\u7406\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ophthalmology",
+            "subject_abbrev": "Ophthalmol.",
+            "subject_chinese_name": "\u773c\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Optics",
+            "subject_abbrev": "Opt.",
+            "subject_chinese_name": "\u5149\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Ornithology",
+            "subject_abbrev": "Ornithol.",
+            "subject_chinese_name": "\u9e1f\u7c7b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Orthopedics",
+            "subject_abbrev": "Orthop.",
+            "subject_chinese_name": "\u9aa8\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Otorhinolaryngology",
+            "subject_abbrev": "Otorhinolaryngol.",
+            "subject_chinese_name": "\u8033\u9f3b\u5589\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Paleontology",
+            "subject_abbrev": "Paleontol.",
+            "subject_chinese_name": "\u53e4\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Parasitology",
+            "subject_abbrev": "Parasitol.",
+            "subject_chinese_name": "\u5bc4\u751f\u866b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Pathology",
+            "subject_abbrev": "Pathol.",
+            "subject_chinese_name": "\u75c5\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Pediatrics",
+            "subject_abbrev": "Pediatr.",
+            "subject_chinese_name": "\u513f\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Peripheral Vascular Disease",
+            "subject_abbrev": "Periph. Vasc. Dis.",
+            "subject_chinese_name": "\u5916\u5468\u8840\u7ba1\u75be\u75c5"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Pharmacology & Pharmacy",
+            "subject_abbrev": "Pharmacol. Pharm.",
+            "subject_chinese_name": "\u836f\u7406\u5b66\u4e0e\u836f\u5242\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Philosophy",
+            "subject_abbrev": "Philos.",
+            "subject_chinese_name": "\u54f2\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Physics",
+            "subject_abbrev": "Phys.",
+            "subject_chinese_name": "\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Applied Physics",
+            "subject_abbrev": "Appl. Phys.",
+            "subject_chinese_name": "\u5e94\u7528\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Atomic Physics",
+            "subject_abbrev": "At. Phys.",
+            "subject_chinese_name": "\u539f\u5b50\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Condensed Matter Physics",
+            "subject_abbrev": "Condens. Matter Phys.",
+            "subject_chinese_name": "\u51dd\u805a\u6001\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Fluids & Plasmas Physics",
+            "subject_abbrev": "Fluids Plasmas Phys.",
+            "subject_chinese_name": "\u6d41\u4f53\u4e0e\u7b49\u79bb\u5b50\u4f53\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mathematical Physics",
+            "subject_abbrev": "Math. Phys.",
+            "subject_chinese_name": "\u6570\u5b66\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Physics",
+            "subject_abbrev": "Multidiscip. Phys.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Nuclear Physics",
+            "subject_abbrev": "Nucl. Phys.",
+            "subject_chinese_name": "\u6838\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Particles & Fields Physics",
+            "subject_abbrev": "Part. Fields Phys.",
+            "subject_chinese_name": "\u7c92\u5b50\u4e0e\u573a\u7269\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Physiology",
+            "subject_abbrev": "Physiol.",
+            "subject_chinese_name": "\u751f\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Plant Sciences",
+            "subject_abbrev": "Plant Sci.",
+            "subject_chinese_name": "\u690d\u7269\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Poetry",
+            "subject_abbrev": "Poetry",
+            "subject_chinese_name": "\u8bd7\u6b4c"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Political Science",
+            "subject_abbrev": "Polit. Sci.",
+            "subject_chinese_name": "\u653f\u6cbb\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Polymer Science",
+            "subject_abbrev": "Polym. Sci.",
+            "subject_chinese_name": "\u805a\u5408\u7269\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Primary Health Care",
+            "subject_abbrev": "Prim. Health Care",
+            "subject_chinese_name": "\u521d\u7ea7\u536b\u751f\u4fdd\u5065"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Psychiatry",
+            "subject_abbrev": "Psychiatry",
+            "subject_chinese_name": "\u7cbe\u795e\u75c5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Psychology",
+            "subject_abbrev": "Psychol.",
+            "subject_chinese_name": "\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Applied Psychology",
+            "subject_abbrev": "Appl. Psychol.",
+            "subject_chinese_name": "\u5e94\u7528\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biological Psychology",
+            "subject_abbrev": "Biol. Psychol.",
+            "subject_chinese_name": "\u751f\u7269\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Clinical Psychology",
+            "subject_abbrev": "Clin. Psychol.",
+            "subject_chinese_name": "\u4e34\u5e8a\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Developmental Psychology",
+            "subject_abbrev": "Dev. Psychol.",
+            "subject_chinese_name": "\u53d1\u5c55\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Educational Psychology",
+            "subject_abbrev": "Educ. Psychol.",
+            "subject_chinese_name": "\u6559\u80b2\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Experimental Psychology",
+            "subject_abbrev": "Exp. Psychol.",
+            "subject_chinese_name": "\u5b9e\u9a8c\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mathematical Psychology",
+            "subject_abbrev": "Math. Psychol.",
+            "subject_chinese_name": "\u6570\u5b66\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Multidisciplinary Psychology",
+            "subject_abbrev": "Multidiscip. Psychol.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Psychoanalysis Psychology",
+            "subject_abbrev": "Psychoanal Psychol..",
+            "subject_chinese_name": "\u7cbe\u795e\u5206\u6790\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Social Psychology",
+            "subject_abbrev": "Soc. Psychol.",
+            "subject_chinese_name": "\u793e\u4f1a\u5fc3\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Public Administration",
+            "subject_abbrev": "Public Public Adm.",
+            "subject_chinese_name": "\u516c\u5171\u7ba1\u7406"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Public",
+            "subject_abbrev": "Public",
+            "subject_chinese_name": "\u516c\u5171\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Environmental & Occupational Public Health",
+            "subject_abbrev": "Environ. Occup. Public Health ",
+            "subject_chinese_name": "\u73af\u5883\u4e0e\u804c\u4e1a\u516c\u4f17\u5065\u5eb7"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Quantum Science & Technology",
+            "subject_abbrev": "Quantum Sci. Technol.",
+            "subject_chinese_name": "\u91cf\u5b50\u79d1\u5b66\u4e0e\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Radiology",
+            "subject_abbrev": "Radiol.",
+            "subject_chinese_name": "\u653e\u5c04\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Nuclear Medicine & Medical Imaging Radiology",
+            "subject_abbrev": " Nucl. Med. Med. Imag. Radiol.",
+            "subject_chinese_name": "\u6838\u533b\u5b66\u4e0e\u533b\u5b66\u5f71\u50cf\u653e\u5c04\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Regional & Urban Planning",
+            "subject_abbrev": "Reg. Urban Plan.",
+            "subject_chinese_name": "\u533a\u57df\u4e0e\u57ce\u5e02\u89c4\u5212"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Rehabilitation",
+            "subject_abbrev": "Rehabil.",
+            "subject_chinese_name": "\u5eb7\u590d"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Religion",
+            "subject_abbrev": "Relig.",
+            "subject_chinese_name": "\u5b97\u6559"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Remote Sensing",
+            "subject_abbrev": "Remote Sens.",
+            "subject_chinese_name": "\u9065\u611f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Reproductive Biology",
+            "subject_abbrev": "Reprod. Biol.",
+            "subject_chinese_name": "\u751f\u6b96\u751f\u7269\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Respiratory System",
+            "subject_abbrev": "Respir. Syst.",
+            "subject_chinese_name": "\u547c\u5438\u7cfb\u7edf"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Rheumatology",
+            "subject_abbrev": "Rheumatol.",
+            "subject_chinese_name": "\u98ce\u6e7f\u75c5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Robotics",
+            "subject_abbrev": "Robot.",
+            "subject_chinese_name": "\u673a\u5668\u4eba\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Social Issues",
+            "subject_abbrev": "Soc. Issues",
+            "subject_chinese_name": "\u793e\u4f1a\u95ee\u9898"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Social Sciences",
+            "subject_abbrev": "Soc. Sci.",
+            "subject_chinese_name": "\u793e\u4f1a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Biomedical Social Sciences",
+            "subject_abbrev": "Biomed. Soc. Sci.",
+            "subject_chinese_name": "\u751f\u7269\u793e\u4f1a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Interdisciplinary Social Sciences",
+            "subject_abbrev": "Interdiscip. Soc. Sci.",
+            "subject_chinese_name": "\u591a\u5b66\u79d1\u793e\u4f1a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Mathematical Methods Social Sciences",
+            "subject_abbrev": "Soc. Sci. Math. Methods",
+            "subject_chinese_name": "\u6570\u5b66\u65b9\u6cd5\u793e\u4f1a\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Social Work",
+            "subject_abbrev": "Social Work",
+            "subject_chinese_name": "\u793e\u4f1a\u5de5\u4f5c"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Sociology",
+            "subject_abbrev": "Sociol.",
+            "subject_chinese_name": "\u793e\u4f1a\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Soil Science",
+            "subject_abbrev": "Soil Sci.",
+            "subject_chinese_name": "\u571f\u58e4\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Spectroscopy",
+            "subject_abbrev": "Spectrosc.",
+            "subject_chinese_name": "\u5149\u8c31\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Sport Sciences",
+            "subject_abbrev": "Sport Sci.",
+            "subject_chinese_name": "\u4f53\u80b2\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Statistics & Probability",
+            "subject_abbrev": "Stat. Probab.",
+            "subject_chinese_name": "\u7edf\u8ba1\u4e0e\u6982\u7387"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Substance Abuse",
+            "subject_abbrev": "Subst. Abuse",
+            "subject_chinese_name": "\u836f\u7269\u6ee5\u7528"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Surgery",
+            "subject_abbrev": "Surg.",
+            "subject_chinese_name": "\u5916\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Telecommunications",
+            "subject_abbrev": "Telecommun.",
+            "subject_chinese_name": "\u7535\u4fe1"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Theater",
+            "subject_abbrev": "Theater",
+            "subject_chinese_name": "\u620f\u5267"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Thermodynamics",
+            "subject_abbrev": "Thermodyn.",
+            "subject_chinese_name": "\u70ed\u529b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Toxicology",
+            "subject_abbrev": "Toxicol.",
+            "subject_chinese_name": "\u6bd2\u7406\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Transplantation",
+            "subject_abbrev": "Transplant.",
+            "subject_chinese_name": "\u79fb\u690d"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Transportation",
+            "subject_abbrev": "Transport.",
+            "subject_chinese_name": "\u8fd0\u8f93"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Transportation Science & Technology",
+            "subject_abbrev": "Transport. Sci. Technol.",
+            "subject_chinese_name": "\u8fd0\u8f93\u79d1\u5b66\u4e0e\u6280\u672f"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Tropical Medicine",
+            "subject_abbrev": "Trop. Med.",
+            "subject_chinese_name": "\u70ed\u5e26\u533b\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Urban Studies",
+            "subject_abbrev": "Urban Stud.",
+            "subject_chinese_name": "\u57ce\u5e02\u7814\u7a76"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Urology & Nephrology",
+            "subject_abbrev": "Urol. Nephrol.",
+            "subject_chinese_name": "\u6ccc\u5c3f\u5916\u79d1\u4e0e\u80be\u810f\u75c5\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Veterinary Sciences",
+            "subject_abbrev": "Vet. Sci.",
+            "subject_chinese_name": "\u517d\u533b\u79d1\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Virology",
+            "subject_abbrev": "Virology",
+            "subject_chinese_name": "\u75c5\u6bd2\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Water Resources",
+            "subject_abbrev": "Water Resour.",
+            "subject_chinese_name": "\u6c34\u8d44\u6e90"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Women\u2018s Studies",
+            "subject_abbrev": "Women's Stud.",
+            "subject_chinese_name": "\u5987\u5973\u7814\u7a76\u5b66"
+        }
+    },
+    {
+        "label": "subject",
+        "properties": {
+            "subject_name": "Zoology",
+            "subject_abbrev": "Zool.",
+            "subject_chinese_name": "\u52a8\u7269\u5b66"
+        }
+    }
+]

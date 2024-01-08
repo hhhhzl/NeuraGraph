@@ -118,6 +118,7 @@
     "id_strategy": "DEFAULT",
     "properties": [
         "subject_name",
+        "subject_chinese_name",
         "subject_abbrev"
     ],
     "primary_keys": [

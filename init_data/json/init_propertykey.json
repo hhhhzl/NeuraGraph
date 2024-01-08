@@ -115,6 +115,11 @@
     "cardinality": "SINGLE"
   },
   {
+    "name": "subject_chinese_name",
+    "data_type": "TEXT",
+    "cardinality": "SINGLE"
+  },
+  {
     "name": "subject_abbrev",
     "data_type": "TEXT",
     "cardinality": "SINGLE"

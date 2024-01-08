@@ -1,0 +1,1024 @@
+[
+  {
+    "Acoustics": {
+        "Chinese": "声学",
+        "ISO_4": "Acoust."
+    },
+    "Agricultural Economics & Policy": {
+        "Chinese": "农业经济与政策",
+        "ISO_4": "Agric. Econ. Policy"
+    },
+    "Agricultural Engineering": {
+        "Chinese": "农业工程",
+        "ISO_4": "Agric. Eng."
+    },
+    "Agriculture": {
+        "Chinese": "农业",
+        "ISO_4": "Agric."
+    },
+    "Dairy & Animal Science Agriculture": {
+        "Chinese": "奶业与动物科学农业",
+        "ISO_4": "Dairy Anim. Sci. Agric."
+    },
+    "Multidisciplinary Agriculture": {
+        "Chinese": "多学科农业",
+        "ISO_4": "Multidiscip. Agric."
+    },
+    "Agronomy": {
+        "Chinese": "农学",
+        "ISO_4": "Agron."
+    },
+    "Allergy": {
+        "Chinese": "过敏",
+        "ISO_4": "Allergy"
+    },
+    "Anatomy & Morphology": {
+        "Chinese": "解剖学与形态学",
+        "ISO_4": "Anat. Morphol."
+    },
+    "Andrology": {
+        "Chinese": "男科学",
+        "ISO_4": "Androl."
+    },
+    "Anesthesiology": {
+        "Chinese": "麻醉学",
+        "ISO_4": "Anesthesiol."
+    },
+    "Anthropology": {
+        "Chinese": "人类学",
+        "ISO_4": "Anthropol."
+    },
+    "Archaeology": {
+        "Chinese": "考古学",
+        "ISO_4": "Archaeol."
+    },
+    "Architecture": {
+        "Chinese": "建筑学",
+        "ISO_4": "Archit."
+    },
+    "Area Studies": {
+        "Chinese": "区域研究",
+        "ISO_4": "Area Stud."
+    },
+    "Art": {
+        "Chinese": "艺术",
+        "ISO_4": "Art"
+    },
+    "Asian Studies": {
+        "Chinese": "亚洲研究",
+        "ISO_4": "Asian Stud."
+    },
+    "Astronomy & Astrophysics": {
+        "Chinese": "天文学与天体物理学",
+        "ISO_4": "Astron. Astrophys."
+    },
+    "Automation & Control Systems": {
+        "Chinese": "自动化与控制系统",
+        "ISO_4": "Autom. Control Syst."
+    },
+    "Behavioral Sciences": {
+        "Chinese": "行为科学",
+        "ISO_4": "Behav. Sci."
+    },
+    "Biochemical Research Methods": {
+        "Chinese": "生化研究方法",
+        "ISO_4": "Biochem. Res. Methods"
+    },
+    "Biochemistry & Molecular Biology": {
+        "Chinese": "生物化学与分子生物学",
+        "ISO_4": "Biochem. Mol. Biol."
+    },
+    "Biodiversity Conservation": {
+        "Chinese": "生物多样性保护",
+        "ISO_4": "Biodivers. Conserv."
+    },
+    "Biology": {
+        "Chinese": "生物学",
+        "ISO_4": "Biol."
+    },
+    "Biophysics": {
+        "Chinese": "生物物理学",
+        "ISO_4": "Biophys."
+    },
+    "Biotechnology & Applied Microbiology": {
+        "Chinese": "生物技术与应用微生物学",
+        "ISO_4": "Biotechnol. Appl. Microbiol."
+    },
+    "Business": {
+        "Chinese": "商业",
+        "ISO_4": "Bus."
+    },
+    "Finance Business": {
+        "Chinese": "金融商业",
+        "ISO_4": "Finance Bus."
+    },
+    "Cardiac & Cardiovascular Systems": {
+        "Chinese": "心脏与心血管系统",
+        "ISO_4": "Cardiac Cardiovasc. Syst."
+    },
+    "Cell & Tissue Engineering": {
+        "Chinese": "细胞与组织工程",
+        "ISO_4": "Cell Tissue Eng."
+    },
+    "Cell Biology": {
+        "Chinese": "细胞生物学",
+        "ISO_4": "Cell Biol."
+    },
+    "Chemistry": {
+        "Chinese": "化学",
+        "ISO_4": "Chem."
+    },
+    "Analytical Chemistry": {
+        "Chinese": "分析化学",
+        "ISO_4": "Anal. Chem."
+    },
+    "Applied Chemistry": {
+        "Chinese": "应用化学",
+        "ISO_4": "Appl. Chem."
+    },
+    "Inorganic & Nuclear Chemistry": {
+        "Chinese": "无机与核化学",
+        "ISO_4": "Inorg. Nucl. Chem."
+    },
+    "Medicinal Chemistry": {
+        "Chinese": "药物化学",
+        "ISO_4": "Med. Chem."
+    },
+    "Multidisciplinary Chemistry": {
+        "Chinese": "多学科化学",
+        "ISO_4": "Multidiscip. Chem."
+    },
+    "Organic Chemistry": {
+        "Chinese": "有机化学",
+        "ISO_4": "Org. Chem."
+    },
+    "Physical Chemistry": {
+        "Chinese": "物理化学",
+        "ISO_4": "Phys. Chem."
+    },
+    "Classics": {
+        "Chinese": "古典学",
+        "ISO_4": "Classics"
+    },
+    "Clinical Neurology": {
+        "Chinese": "临床神经病学",
+        "ISO_4": "Clin. Neurol."
+    },
+    "Communication": {
+        "Chinese": "通信",
+        "ISO_4": "Commun."
+    },
+    "Computer Science": {
+        "Chinese": "计算机科学",
+        "ISO_4": "Comput. Sci."
+    },
+    "Artificial Intelligence Computer Science": {
+        "Chinese": "人工智能计算机科学",
+        "ISO_4": "Artif. Intell. Comput. Sci."
+    },
+    "Cybernetics Computer Science": {
+        "Chinese": "控制论计算机科学",
+        "ISO_4": "Cybernet. Comput. Sci."
+    },
+    "Hardware & Architecture Computer Science": {
+        "Chinese": "硬件与体系结构计算机科学",
+        "ISO_4": "Hardware Archit. Comput. Sci."
+    },
+    "Information Systems Computer Science": {
+        "Chinese": "信息系统计算机科学",
+        "ISO_4": "Inf. Syst. Comput. Sci."
+    },
+    "Interdisciplinary Applications Computer Science": {
+        "Chinese": "跨学科应用计算机科学",
+        "ISO_4": "Interdiscip. Appl. Comput. Sci."
+    },
+    "Software Engineering Computer Science": {
+        "Chinese": "软件工程计算机科学",
+        "ISO_4": "Software Eng. Comput. Sci."
+    },
+    "Theory & Methods Computer Science": {
+        "Chinese": "理论与方法计算机科学",
+        "ISO_4": "Theory Methods Comput. Sci."
+    },
+    "Construction & Building Technology": {
+        "Chinese": "建筑与建筑技术",
+        "ISO_4": "Constr. Build. Technol."
+    },
+    "Criminology & Penology": {
+        "Chinese": "犯罪学与刑法学",
+        "ISO_4": "Criminol. Penol."
+    },
+    "Critical Care Medicine": {
+        "Chinese": "重症医学",
+        "ISO_4": "Crit. Care Med."
+    },
+    "Crystallography": {
+        "Chinese": "晶体学",
+        "ISO_4": "Crystallogr."
+    },
+    "Cultural Studies": {
+        "Chinese": "文化研究",
+        "ISO_4": "Cult. Stud."
+    },
+    "Dance": {
+        "Chinese": "舞蹈",
+        "ISO_4": "Dance"
+    },
+    "Demography": {
+        "Chinese": "人口统计学",
+        "ISO_4": "Demogr."
+    },
+    "Dentistry": {
+        "Chinese": "牙科",
+        "ISO_4": "Dent."
+    },
+    "Oral Surgery & Medicine Dentistry": {
+        "Chinese": "口腔外科与医学牙科",
+        "ISO_4": "Oral Surg. Med. Dent."
+    },
+    "Dermatology": {
+        "Chinese": "皮肤病学",
+        "ISO_4": "Dermatol."
+    },
+    "Development Studies": {
+        "Chinese": "发展研究",
+        "ISO_4": "Dev. Stud."
+    },
+    "Developmental Biology": {
+        "Chinese": "发育生物学",
+        "ISO_4": "Dev. Biol."
+    },
+    "Ecology": {
+        "Chinese": "生态学",
+        "ISO_4": "Ecol."
+    },
+    "Economics": {
+        "Chinese": "经济学",
+        "ISO_4": "Econ."
+    },
+    "Education & Educational Research": {
+        "Chinese": "教育与教育研究",
+        "ISO_4": "Educ. Educ. Res."
+    },
+    "Education": {
+        "Chinese": "教育",
+        "ISO_4": "Educ."
+    },
+    "Scientific Disciplines Education": {
+        "Chinese": "科学学科教育",
+        "ISO_4": "Sci. Disciplines Educ."
+    },
+    "Special Education": {
+        "Chinese": "特殊教育",
+        "ISO_4": "Spec. Educ."
+    },
+    "Electrochemistry": {
+        "Chinese": "电化学",
+        "ISO_4": "Electrochem."
+    },
+    "Emergency Medicine": {
+        "Chinese": "急诊医学",
+        "ISO_4": "Emerg. Med."
+    },
+    "Endocrinology & Metabolism": {
+        "Chinese": "内分泌与代谢",
+        "ISO_4": "Endocrinol. Metab."
+    },
+    "Energy & Fuels": {
+        "Chinese": "能源与燃料",
+        "ISO_4": "Energy Fuels"
+    },
+    "Engineering": {
+        "Chinese": "工程",
+        "ISO_4": "Eng."
+    },
+    "Aerospace Engineering": {
+        "Chinese": "航空航天工程",
+        "ISO_4": "Aerospace Eng."
+    },
+    "Biomedical Engineering": {
+        "Chinese": "生物医学工程",
+        "ISO_4": "Biomed. Eng."
+    },
+    "Chemical Engineering": {
+        "Chinese": "化学工程",
+        "ISO_4": "Chem. Eng."
+    },
+    "Civil Engineering": {
+        "Chinese": "土木工程",
+        "ISO_4": "Civil Eng."
+    },
+    "Electrical & Electronic Engineering": {
+        "Chinese": "电气与电子工程",
+        "ISO_4": "Electr. Electron. Eng."
+    },
+    "Environmental Engineering": {
+        "Chinese": "环境工程",
+        "ISO_4": "Environ. Eng."
+    },
+    "Geological Engineering": {
+        "Chinese": "地质工程",
+        "ISO_4": "Geol. Eng."
+    },
+    "Industrial Engineering": {
+        "Chinese": "工业工程",
+        "ISO_4": "Ind. Eng."
+    },
+    "Manufacturing Engineering": {
+        "Chinese": "制造工程",
+        "ISO_4": "Manuf. Eng."
+    },
+    "Marine Engineering": {
+        "Chinese": "海洋工程",
+        "ISO_4": "Marine Eng."
+    },
+    "Mechanical Engineering": {
+        "Chinese": "机械工程",
+        "ISO_4": "Mech. Eng."
+    },
+    "Multidisciplinary Engineering": {
+        "Chinese": "多学科工程",
+        "ISO_4": "Multidiscip. Eng."
+    },
+    "Ocean Engineering": {
+        "Chinese": "海洋工程",
+        "ISO_4": "Ocean Eng."
+    },
+    "Petroleum Engineering": {
+        "Chinese": "石油工程",
+        "ISO_4": "Petroleum Eng."
+    },
+    "Entomology": {
+        "Chinese": "昆虫学",
+        "ISO_4": "Entomol."
+    },
+    "Environmental Sciences": {
+        "Chinese": "环境科学",
+        "ISO_4": "Environ. Sci."
+    },
+    "Environmental Studies": {
+        "Chinese": "环境研究",
+        "ISO_4": "Environ. Stud."
+    },
+    "Ergonomics": {
+        "Chinese": "人因工程学",
+        "ISO_4": "Ergonomics"
+    },
+    "Ethics": {
+        "Chinese": "伦理学",
+        "ISO_4": "Ethics"
+    },
+    "Ethnic Studies": {
+        "Chinese": "民族学",
+        "ISO_4": "Ethnic Stud."
+    },
+    "Evolutionary Biology": {
+        "Chinese": "进化生物学",
+        "ISO_4": "Evol. Biol."
+    },
+    "Family Studies": {
+        "Chinese": "家庭学",
+        "ISO_4": "Fam. Stud."
+    },
+    "Film": {
+        "Chinese": "电影",
+        "ISO_4": "Film"
+    },
+    "Radio Film": {
+        "Chinese": "广播电影",
+        "ISO_4": "Radio Film"
+    },
+    "Fisheries": {
+        "Chinese": "渔业",
+        "ISO_4": "Fisheries"
+    },
+    "Folklore": {
+        "Chinese": "民俗学",
+        "ISO_4": "Folklore"
+    },
+    "Food Science & Technology": {
+        "Chinese": "食品科学与技术",
+        "ISO_4": "Food Sci. Technol."
+    },
+    "Forestry": {
+        "Chinese": "林业",
+        "ISO_4": "Forestry"
+    },
+    "Gastroenterology & Hepatology": {
+        "Chinese": "胃肠病学与肝病学",
+        "ISO_4": "Gastroenterol. Hepatol."
+    },
+    "Genetics & Heredity": {
+        "Chinese": "遗传学与遗传",
+        "ISO_4": "Genet. Hered."
+    },
+    "Geochemistry & Geophysics": {
+        "Chinese": "地球化学与地球物理学",
+        "ISO_4": "Geochem. Geophys."
+    },
+    "Geography": {
+        "Chinese": "地理学",
+        "ISO_4": "Geogr."
+    },
+    "Physical Geography": {
+        "Chinese": "物理地理学",
+        "ISO_4": "Phys. Geogr."
+    },
+    "Geology": {
+        "Chinese": "地质学",
+        "ISO_4": "Geol."
+    },
+    "Geosciences": {
+        "Chinese": "地球科学",
+        "ISO_4": "Geosci."
+    },
+    "Multidisciplinary Geosciences": {
+        "Chinese": "多学科地球科学",
+        "ISO_4": "Multidiscip. Geosci."
+    },
+    "Geriatrics & Gerontology": {
+        "Chinese": "老年病学与老年学",
+        "ISO_4": "Geriatr. Gerontol."
+    },
+    "Gerontology": {
+        "Chinese": "老年学",
+        "ISO_4": "Gerontol."
+    },
+    "Green & Sustainable Science & Technology": {
+        "Chinese": "绿色与可持续科学与技术",
+        "ISO_4": "Green Sustain. Sci. Technol."
+    },
+    "Health Care Sciences & Services": {
+        "Chinese": "卫生保健科学与服务",
+        "ISO_4": "Health Care Sci. Serv."
+    },
+    "Health Policy & Services": {
+        "Chinese": "卫生政策与服务",
+        "ISO_4": "Health Policy Serv."
+    },
+    "Hematology": {
+        "Chinese": "血液学",
+        "ISO_4": "Hematol."
+    },
+    "History": {
+        "Chinese": "历史",
+        "ISO_4": "Hist."
+    },
+    "History & Philosophy Of Science": {
+        "Chinese": "科学历史与哲学",
+        "ISO_4": "Hist. Philos. Sci."
+    },
+    "History Of Social Sciences": {
+        "Chinese": "社会科学历史",
+        "ISO_4": "Hist. Soc. Sci."
+    },
+    "Horticulture": {
+        "Chinese": "园艺",
+        "ISO_4": "Hort."
+    },
+    "Hospitality": {
+        "Chinese": "酒店管理",
+        "ISO_4": "Hosp."
+    },
+    "Leisure Hospitality": {
+        "Chinese": "休闲酒店管理",
+        "ISO_4": "Leis. Hosp."
+    },
+    "Humanities": {
+        "Chinese": "人文学科",
+        "ISO_4": "Hum."
+    },
+    "Multidisciplinary Humanities": {
+        "Chinese": "多学科人文学科",
+        "ISO_4": "Multidiscip. Hum."
+    },
+    "Imaging Science & Photographic Technology": {
+        "Chinese": "成像科学与摄影技术",
+        "ISO_4": "Imaging Sci. Phototechnol."
+    },
+    "Immunology": {
+        "Chinese": "免疫学",
+        "ISO_4": "Immunol."
+    },
+    "Industrial Relations & Labor": {
+        "Chinese": "工业关系与劳工",
+        "ISO_4": "Ind. Relat. Labor"
+    },
+    "Infectious Diseases": {
+        "Chinese": "传染病",
+        "ISO_4": "Infect. Dis."
+    },
+    "Information Science & Library Science": {
+        "Chinese": "信息科学与图书馆学",
+        "ISO_4": "Inf. Sci. Libr. Sci."
+    },
+    "Instruments & Instrumentation": {
+        "Chinese": "仪器与仪表",
+        "ISO_4": "Instrum. Instrum."
+    },
+    "Integrative & Complementary Medicine": {
+        "Chinese": "综合与补充医学",
+        "ISO_4": "Integr. Complement. Med."
+    },
+    "International Relations": {
+        "Chinese": "国际关系",
+        "ISO_4": "Int. Relat."
+    },
+    "Language & Linguistics": {
+        "Chinese": "语言与语言学",
+        "ISO_4": "Lang. Linguist."
+    },
+    "Law": {
+        "Chinese": "法律",
+        "ISO_4": "Law"
+    },
+     "Limnology": {
+        "Chinese": "湖泊学",
+        "ISO_4": "Limnol."
+    },
+    "Linguistics": {
+        "Chinese": "语言学",
+        "ISO_4": "Linguist."
+    },
+    "Literary Reviews": {
+        "Chinese": "文学评论",
+        "ISO_4": "Literary Rev."
+    },
+    "Literary Theory & Criticism": {
+        "Chinese": "文学理论与批评",
+        "ISO_4": "Lit. Theory Crit."
+    },
+    "Literature": {
+        "Chinese": "文学",
+        "ISO_4": "Lit."
+    },
+    "Classical Literature": {
+        "Chinese": "古典文学",
+        "ISO_4": "Classical Lit."
+    },
+    "Comparative Literature": {
+        "Chinese": "比较文学",
+        "ISO_4": "Comp. Lit."
+    },
+    "Cultural Studies Literature": {
+        "Chinese": "文化研究文学",
+        "ISO_4": "Cultural Stud. Lit."
+    },
+    "Drama Theater Arts": {
+        "Chinese": "戏剧与剧院艺术",
+        "ISO_4": "Drama Theater Arts"
+    },
+    "Film Theater Arts": {
+        "Chinese": "电影剧院艺术",
+        "ISO_4": "Film Theater Arts"
+    },
+    "Poetry Literature": {
+        "Chinese": "诗歌文学",
+        "ISO_4": "Poetry Lit."
+    },
+    "Rhetoric & Composition Literature": {
+        "Chinese": "修辞学与作文文学",
+        "ISO_4": "Rhetoric Comp. Lit."
+    },
+    "Writing Literature": {
+        "Chinese": "写作文学",
+        "ISO_4": "Writing Lit."
+    },
+    "Logic": {
+        "Chinese": "逻辑学",
+        "ISO_4": "Logic"
+    },
+    "Management": {
+        "Chinese": "管理",
+        "ISO_4": "Manag."
+    },
+    "Management Information Systems": {
+        "Chinese": "管理信息系统",
+        "ISO_4": "Manag. Inf. Syst."
+    },
+    "Marine & Freshwater Biology": {
+        "Chinese": "海洋与淡水生物学",
+        "ISO_4": "Mar. Freshwater Biol."
+    },
+    "Materials Science": {
+        "Chinese": "材料科学",
+        "ISO_4": "Mater. Sci."
+    },
+    "Characterization & Testing Materials Science": {
+        "Chinese": "材料科学的表征与测试",
+        "ISO_4": "Charact. Test. Mater. Sci."
+    },
+    "Composites Materials Science": {
+        "Chinese": "复合材料科学",
+        "ISO_4": "Compos. Mater. Sci."
+    },
+    "Multidisciplinary Materials Science": {
+        "Chinese": "多学科材料科学",
+        "ISO_4": "Multidiscip. Mater. Sci."
+    },
+    "Information Systems": {
+        "Chinese": "信息系统",
+        "ISO_4": "Inf. Syst."
+    },
+    "Information Systems Multidisciplinary": {
+        "Chinese": "多学科信息系统",
+        "ISO_4": "Multidiscip. Inf. Syst."
+    },
+    "Information Technology": {
+        "Chinese": "信息技术",
+        "ISO_4": "Inf. Technol."
+    },
+    "Information Technology Multidisciplinary": {
+        "Chinese": "多学科信息技术",
+        "ISO_4": "Multidiscip. Inf. Technol."
+    },
+    "International Relations Multidisciplinary": {
+        "Chinese": "多学科国际关系",
+        "ISO_4": "Multidiscip. Int. Relat."
+    },
+    "Library Science": {
+        "Chinese": "图书馆学",
+        "ISO_4": "Libr. Sci."
+    },
+    "Mathematics": {
+        "Chinese": "数学",
+        "ISO_4": "Math."
+    },
+    "Interdisciplinary Applications Mathematics": {
+        "Chinese": "跨学科应用数学",
+        "ISO_4": "Interdiscip. Appl. Math."
+    },
+    "Multidisciplinary Mathematics": {
+        "Chinese": "多学科数学",
+        "ISO_4": "Math. Multidiscip."
+    },
+    "Medical Ethics": {
+        "Chinese": "医学伦理学",
+        "ISO_4": "Med. Ethics"
+    },
+    "Medical Informatics": {
+        "Chinese": "医学信息学",
+        "ISO_4": "Med. Inform."
+    },
+    "Medical Laboratory Technology": {
+        "Chinese": "医学实验室技术",
+        "ISO_4": "Med. Lab. Technol."
+    },
+    "Medical Records": {
+        "Chinese": "医疗记录",
+        "ISO_4": "Med. Rec."
+    },
+    "General & Internal Medicine": {
+        "Chinese": "通用与内科医学",
+        "ISO_4": " Gen. Intern. Med."
+    },
+    "Legal Medicine": {
+        "Chinese": "法医学",
+        "ISO_4": "Med. Legal"
+    },
+    "Research & Experimental Medicine": {
+        "Chinese": "研究与实验医学",
+        "ISO_4": "Res. Exp. Med."
+    },
+    "Metallurgy & Metallurgical Engineering": {
+        "Chinese": "冶金与冶金工程",
+        "ISO_4": "Metall. Metall. Eng."
+    },
+    "Meteorology & Atmospheric Sciences": {
+        "Chinese": "气象与大气科学",
+        "ISO_4": "Meteorol. Atmos. Sci."
+    },
+    "Microbiology": {
+        "Chinese": "微生物学",
+        "ISO_4": "Microbiol."
+    },
+    "Microscopy": {
+        "Chinese": "显微镜",
+        "ISO_4": "Microsc."
+    },
+    "Mineralogy": {
+        "Chinese": "矿物学",
+        "ISO_4": "Mineral."
+    },
+    "Mining & Mineral Processing": {
+        "Chinese": "矿业与矿物加工",
+        "ISO_4": "Mining Miner. Process."
+    },
+    "Multidisciplinary Sciences": {
+        "Chinese": "多学科科学",
+        "ISO_4": "Multidiscip. Sci."
+    },
+    "Music": {
+        "Chinese": "音乐",
+        "ISO_4": "Music"
+    },
+    "Mycology": {
+        "Chinese": "真菌学",
+        "ISO_4": "Mycology"
+    },
+    "Neurosciences": {
+        "Chinese": "神经科学",
+        "ISO_4": "Neurosci."
+    },
+    "Nutrition & Dietetics": {
+        "Chinese": "营养与营养学",
+        "ISO_4": "Nutr. Diet."
+    },
+    "Obstetrics & Gynecology": {
+        "Chinese": "妇产科学",
+        "ISO_4": "Obstet. Gynecol."
+    },
+    "Oceanography": {
+        "Chinese": "海洋学",
+        "ISO_4": "Oceanogr."
+    },
+    "Oncology": {
+        "Chinese": "肿瘤学",
+        "ISO_4": "Oncol."
+    },
+    "Ophthalmology": {
+        "Chinese": "眼科学",
+        "ISO_4": "Ophthalmol."
+    },
+    "Optics": {
+        "Chinese": "光学",
+        "ISO_4": "Opt."
+    },
+    "Orthopedics": {
+        "Chinese": "骨科学",
+        "ISO_4": "Orthop."
+    },
+    "Otorhinolaryngology": {
+        "Chinese": "耳鼻喉科学",
+        "ISO_4": "Otorhinolaryngol."
+    },
+    "Paleontology": {
+        "Chinese": "古生物学",
+        "ISO_4": "Paleontol."
+    },
+    "Parasitology": {
+        "Chinese": "寄生虫学",
+        "ISO_4": "Parasitol."
+    },
+    "Pathology": {
+        "Chinese": "病理学",
+        "ISO_4": "Pathol."
+    },
+    "Pediatrics": {
+        "Chinese": "儿科学",
+        "ISO_4": "Pediatr."
+    },
+    "Peripheral Vascular Disease": {
+        "Chinese": "外周血管疾病",
+        "ISO_4": "Periph. Vasc. Dis."
+    },
+    "Pharmacology & Pharmacy": {
+        "Chinese": "药理学与药剂学",
+        "ISO_4": "Pharmacol. Pharm."
+    },
+    "Pharmacology & Toxicology": {
+        "Chinese": "药理学与毒理学",
+        "ISO_4": "Pharmacol. Toxicol."
+    },
+    "Philosophy": {
+        "Chinese": "哲学",
+        "ISO_4": "Philos."
+    },
+    "Physics": {
+        "Chinese": "物理学",
+        "ISO_4": "Phys."
+    },
+    "Applied Physics": {
+        "Chinese": "应用物理学",
+        "ISO_4": "Appl. Phys."
+    },
+    "Condensed Matter Physics": {
+        "Chinese": "凝聚态物理学",
+        "ISO_4": "Condens. Matter Phys."
+    },
+    "Fluids & Plasmas Physics": {
+        "Chinese": "流体与等离子体物理学",
+        "ISO_4": "Fluids Plasmas Phys."
+    },
+    "Mathematical Physics": {
+        "Chinese": "数学物理学",
+        "ISO_4": "Math. Phys."
+    },
+    "Nuclear & High Energy Physics": {
+        "Chinese": "核物理与高能物理学",
+        "ISO_4": "Nucl. High Energy Phys."
+    },
+    "Optics Physics": {
+        "Chinese": "光学物理学",
+        "ISO_4": "Opt. Phys."
+    },
+    "Multidisciplinary Physics": {
+        "Chinese": "多学科物理学",
+        "ISO_4": "Multidiscip. Phys."
+    },
+    "Polymer Science": {
+        "Chinese": "聚合物科学",
+        "ISO_4": "Polym. Sci."
+    },
+    "Psychiatry": {
+        "Chinese": "精神病学",
+        "ISO_4": "Psychiatry"
+    },
+    "Psychology": {
+        "Chinese": "心理学",
+        "ISO_4": "Psychol."
+    },
+    "Applied Psychology": {
+        "Chinese": "应用心理学",
+        "ISO_4": "Appl. Psychol."
+    },
+    "Biological Psychology": {
+        "Chinese": "生物心理学",
+        "ISO_4": "Biol. Psychol."
+    },
+    "Clinical Psychology": {
+        "Chinese": "临床心理学",
+        "ISO_4": "Clin. Psychol."
+    },
+    "Developmental Psychology": {
+        "Chinese": "发展心理学",
+        "ISO_4": "Dev. Psychol."
+    },
+    "Educational Psychology": {
+        "Chinese": "教育心理学",
+        "ISO_4": "Educ. Psychol."
+    },
+    "Experimental Psychology": {
+        "Chinese": "实验心理学",
+        "ISO_4": "Exp. Psychol."
+    },
+    "Mathematical Psychology": {
+        "Chinese": "数学心理学",
+        "ISO_4": "Math. Psychol."
+    },
+    "Multidisciplinary Psychology": {
+        "Chinese": "多学科心理学",
+        "ISO_4": "Multidiscip. Psychol."
+    },
+    "Psychoanalysis Psychology": {
+        "Chinese": "精神分析心理学",
+        "ISO_4": "Psychoanal Psychol.."
+    },
+    "Social Psychology": {
+        "Chinese": "社会心理学",
+        "ISO_4": "Soc. Psychol."
+    },
+    "Public Administration": {
+        "Chinese": "公共管理",
+        "ISO_4": "Public Public Adm."
+    },
+    "Environmental Occupational Health": {
+        "Chinese": "环境职业健康",
+        "ISO_4": "Environ. Occup. Health"
+    },
+    "Public Health": {
+        "Chinese": "公共卫生",
+        "ISO_4": "Public Public Health"
+    },
+    "Public Issues": {
+        "Chinese": "公共问题",
+        "ISO_4": "Public Public Issues"
+    },
+    "Radiology": {
+      "Chinese": "放射学",
+      "ISO_4": "Radiol."
+    },
+    "Nuclear Medicine & Medical Imaging": {
+        "Chinese": "核医学与医学影像学",
+        "ISO_4": "Nucl. Med. Med. Imaging"
+    },
+    "Rehabilitation": {
+        "Chinese": "康复",
+        "ISO_4": "Rehabil."
+    },
+    "Reproductive Biology": {
+        "Chinese": "生殖生物学",
+        "ISO_4": "Reprod. Biol."
+    },
+    "Research Experimental Medicine": {
+        "Chinese": "实验医学研究",
+        "ISO_4": "Res. Exp. Med."
+    },
+    "Respiratory System": {
+        "Chinese": "呼吸系统",
+        "ISO_4": "Respir. Syst."
+    },
+    "Rheumatology": {
+        "Chinese": "风湿病学",
+        "ISO_4": "Rheumatol."
+    },
+    "Robotics": {
+        "Chinese": "机器人技术",
+        "ISO_4": "Robotics"
+    },
+     "Social Sciences": {
+        "Chinese": "社会科学",
+        "ISO_4": "Soc. Sci."
+    },
+    "Biomedical Social Sciences": {
+        "Chinese": "生物社会科学",
+        "ISO_4": "Biomed. Soc. Sci."
+    },
+    "Interdisciplinary Social Sciences": {
+        "Chinese": "多学科社会科学",
+        "ISO_4": "Interdiscip. Soc. Sci."
+    },
+    "Mathematical Methods Social Sciences": {
+        "Chinese": "数学方法社会科学",
+        "ISO_4": "Soc. Sci. Math. Methods"
+    },
+    "Social Work": {
+        "Chinese": "社会工作",
+        "ISO_4": "Social Work"
+    },
+    "Sociology": {
+        "Chinese": "社会学",
+        "ISO_4": "Sociol."
+    },
+    "Sociology Multidisciplinary": {
+        "Chinese": "多学科社会学",
+        "ISO_4": "Multidiscip. Sociol."
+    },
+    "Space Science": {
+        "Chinese": "空间科学",
+        "ISO_4": "Space Sci."
+    },
+    "Speech-Language Pathology": {
+        "Chinese": "言语语言病理学",
+        "ISO_4": "Speech Lang. Pathol."
+    },
+    "Statistics & Probability": {
+        "Chinese": "统计与概率",
+        "ISO_4": "Stat. Probab."
+    },
+    "Substance Abuse": {
+        "Chinese": "药物滥用",
+        "ISO_4": "Subst. Abuse"
+    },
+    "Surgery": {
+        "Chinese": "外科学",
+        "ISO_4": "Surg."
+    },
+    "Telecommunications": {
+        "Chinese": "电信",
+        "ISO_4": "Telecommun."
+    },
+    "Theater": {
+        "Chinese": "戏剧",
+        "ISO_4": "Theater"
+    },
+    "Theater Dance": {
+        "Chinese": "戏剧与舞蹈",
+        "ISO_4": "Theater Dance"
+    },
+    "Toxicology": {
+        "Chinese": "毒理学",
+        "ISO_4": "Toxicol."
+    },
+    "Transplantation": {
+        "Chinese": "移植",
+        "ISO_4": "Transplant."
+    },
+    "Transportation": {
+        "Chinese": "运输",
+        "ISO_4": "Transport."
+    },
+    "Transportation Science & Technology": {
+        "Chinese": "运输科学与技术",
+        "ISO_4": "Transport. Sci. Technol."
+    },
+    "Tropical Medicine": {
+        "Chinese": "热带医学",
+        "ISO_4": "Trop. Med."
+    },
+    "Urban Studies": {
+        "Chinese": "城市研究",
+        "ISO_4": "Urban Stud."
+    },
+    "Urology & Nephrology": {
+        "Chinese": "泌尿外科与肾脏病学",
+        "ISO_4": "Urol. Nephrol."
+    },
+    "Veterinary Sciences": {
+        "Chinese": "兽医科学",
+        "ISO_4": "Vet. Sci."
+    },
+    "Virology": {
+        "Chinese": "病毒学",
+        "ISO_4": "Virology"
+    },
+    "Water Resources": {
+        "Chinese": "水资源",
+        "ISO_4": "Water Resour."
+    },
+    "Women's Studies": {
+        "Chinese": "妇女研究",
+        "ISO_4": "Women's Stud."
+    }
+  }
+]
