@@ -90,8 +90,8 @@ class init_graph:
             print("An error occurred: ", e)
 
     def run(self):
-        self.init_property_key()
-        self.init_vertex()
+        # self.init_property_key()
+        # self.init_vertex()
         self.init_edge()
 
 
@@ -158,7 +158,7 @@ class build_graph:
 
 
 if __name__ == "__main__":
-    # Init = init_graph(hugegraphClient.HugeGraphClient)
-    # Init.run()
-    imp = build_graph(entity=['subject'], graph_connector=hugegraphClient.HugeGraphClient)
+    Init = init_graph(hugegraphClient.HugeGraphClient)
+    Init.run()
+    imp = build_graph(entity=['paper'], graph_connector=hugegraphClient.HugeGraphClient)
     imp.run()
