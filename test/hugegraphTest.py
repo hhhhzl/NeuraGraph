@@ -1,4 +1,4 @@
-from GraphDbAPIs.HugeGraphAPIs import hugegraphClient
+from NeuraGraphAPIs.HugeGraphAPIs import hugegraphClient
 from configs.hugegraph import (
     HOST,
     PORT,
