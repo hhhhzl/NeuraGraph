@@ -96,9 +96,10 @@ class init_graph:
 
 
 class build_graph:
-    def __init__(self, entity, graph_connector):
+    def __init__(self, entity, relations, graph_connector):
         self.batch_size = 500 # hugegraph default batch
         self.entity = entity
+        self.relations = relations
         self.graph_db = graph_connector(
             host=f"{HOST}",
             port=PORT,
@@ -150,15 +151,49 @@ class build_graph:
                 print("An error occurred: ", e)
 
     def build_relations(self):
-        pass
+        for item in self.entity:
+            path_file = self.get_file_path(item)
+            time_start = time.time()
+            try:
+                with open(path_file, encoding="utf-8") as f:
+                    data = json.load(f)
+                    page = 0
+                    start, end = page * self.batch_size, (page + 1) * self.batch_size
+                    total = len(data)
+                    while page * self.batch_size < total:
+                        if (page + 1) * self.batch_size < total:
+                            sub_data = data[start: end]
+                            res = self.graph_db.create_multi_edge(sub_data)
+                            if res.status_code == 201:
+                                print(f"Success import {item}-{page} Relations.")
+                            else:
+                                print(f"{res.response}")
+                        else:
+                            end = total
+                            sub_data = data[start: end]
+                            res = self.graph_db.create_multi_edge(sub_data)
+                            if res.status_code == 201:
+                                print(f"Success import {item}-{page} Relations.")
+                            else:
+                                print(f"{res.response}")
+                        page += 1
+                        start, end = page * self.batch_size, (page + 1) * self.batch_size
+                    print(f'Time used: {time.time() - time_start}s')
+
+            except json.JSONDecodeError as e:
+                print("JSONDecodeError: ", e)
+            except FileNotFoundError:
+                print("File not found.")
+            except Exception as e:
+                print("An error occurred: ", e)
 
     def run(self):
-        self.build_vertex()
+        # self.build_vertex()
         self.build_relations()
 
 
 if __name__ == "__main__":
-    Init = init_graph(hugegraphClient.HugeGraphClient)
-    Init.run()
-    imp = build_graph(entity=['paper'], graph_connector=hugegraphClient.HugeGraphClient)
+    # Init = init_graph(hugegraphClient.HugeGraphClient)
+    # Init.run()
+    imp = build_graph(entity=['paper'], relations=['author_institute'], graph_connector=hugegraphClient.HugeGraphClient)
     imp.run()
