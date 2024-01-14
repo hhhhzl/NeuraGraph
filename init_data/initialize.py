@@ -97,7 +97,7 @@ class init_graph:
 
 class build_graph:
     def __init__(self, entity, relations, graph_connector):
-        self.batch_size = 500 # hugegraph default batch
+        self.batch_size = 1 # hugegraph default batch
         self.entity = entity
         self.relations = relations
         self.graph_db = graph_connector(
@@ -151,7 +151,7 @@ class build_graph:
                 print("An error occurred: ", e)
 
     def build_relations(self):
-        for item in self.entity:
+        for item in self.relations:
             path_file = self.get_file_path(item)
             time_start = time.time()
             try:
@@ -195,5 +195,5 @@ class build_graph:
 if __name__ == "__main__":
     # Init = init_graph(hugegraphClient.HugeGraphClient)
     # Init.run()
-    imp = build_graph(entity=['paper'], relations=['author_institute'], graph_connector=hugegraphClient.HugeGraphClient)
+    imp = build_graph(entity=['paper'], relations=['keyword_paper'], graph_connector=hugegraphClient.HugeGraphClient)
     imp.run()
