@@ -1,3 +1,5 @@
+import pprint
+
 import pandas as pd
 import os
 from os.path import dirname, abspath
@@ -195,5 +197,21 @@ class build_graph:
 if __name__ == "__main__":
     # Init = init_graph(hugegraphClient.HugeGraphClient)
     # Init.run()
-    imp = build_graph(entity=['paper'], relations=['keyword_paper'], graph_connector=hugegraphClient.HugeGraphClient)
-    imp.run()
+    # imp = build_graph(entity=['paper'], relations=['keyword_paper'], graph_connector=hugegraphClient.HugeGraphClient)
+    # imp.run()
+    hg = hugegraphClient.HugeGraphClient(
+        host=f"{HOST}",
+        port=PORT,
+        graph_name=f"{GRAPH_NAME}"
+    )
+    request = {
+        "gremlin": f"g.V().hasLabel('keyword').has('keyword_name', 'Heat transfer').bothE().limit(50).otherV().bothE().limit(50).otherV().path()",
+        "bindings": {},
+        "language": "gremlin-groovy",
+        "aliases": {"g": "STCKG"}
+    }
+    res_p = json.loads(hg.execute_germlin_post(
+        gremlin=request['gremlin'],
+        aliases=request['aliases']
+    ).response)
+    pprint.pprint(res_p)
