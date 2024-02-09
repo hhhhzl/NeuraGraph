@@ -1,4 +1,0 @@
-NeuraGraphAPIs
-NeuraGraphServer
-init_data
-test

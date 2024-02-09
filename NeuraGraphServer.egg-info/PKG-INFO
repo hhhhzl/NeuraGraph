@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: NeuraGraphServer
-Version: 0.0.1
-License: MIT
-Requires-Dist: requests==2.27.1
-Requires-Dist: pandas==1.4.1
-Requires-Dist: numpy==1.22.3
